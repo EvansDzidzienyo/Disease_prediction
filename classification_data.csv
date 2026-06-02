@@ -1,0 +1,2201 @@
+Date,Region,Crop_Type,Rainfall_mm,Temperature_C,Soil_Moisture,Fertilizer_Used,Pest_Presence,Disease_Presence
+1/1/2022,Greater Accra,Rice,30.63,27.1,0.43,Yes,0,0
+1/2/2022,Northern,Cocoa,37.38,25.5,0.2,Yes,0,1
+1/2/2022,Volta,Cassava,43.34,30.2,0.48,Yes,0,1
+1/2/2022,Western,Rice,60.45,26.9,0.62,No,1,1
+1/2/2022,Western,Cassava,63.69,28.7,0.56,Yes,1,1
+1/3/2022,Ashanti,Rice,46.55,29.9,0.33,Yes,0,0
+1/3/2022,Northern,Cocoa,27.22,32.5,0.28,No,0,1
+1/3/2022,Ashanti,Rice,54.23,24.3,0.63,No,1,1
+1/3/2022,Western,Maize,44.8,31,0.54,Yes,0,1
+1/4/2022,Northern,Maize,34.82,28.7,0.17,Yes,1,1
+1/4/2022,Ashanti,Cocoa,42.89,29.6,0.46,Yes,0,0
+1/5/2022,Western,Rice,36.36,28.5,0.6,Yes,0,1
+1/5/2022,Ashanti,Maize,56.56,27.9,0.57,No,0,1
+1/5/2022,Volta,Cocoa,45.7,26.8,0.35,Yes,0,1
+1/5/2022,Greater Accra,Cocoa,29.04,31.7,0.28,Yes,0,1
+1/6/2022,Ashanti,Cocoa,58.75,30.5,0.52,No,1,1
+1/6/2022,Western,Yam,57.36,25.5,0.43,Yes,0,1
+1/6/2022,Ashanti,Rice,50,27.6,0.38,Yes,0,1
+1/6/2022,Volta,Maize,46.36,29.8,0.39,No,0,1
+1/7/2022,Volta,Cocoa,49.66,31.2,0.24,Yes,0,1
+1/7/2022,Ashanti,Maize,49.75,24.4,0.32,No,1,1
+1/7/2022,Northern,Rice,41.75,32.4,0.16,Yes,0,0
+1/7/2022,Greater Accra,Rice,22.22,27.7,0.22,No,0,1
+1/8/2022,Northern,Rice,26.08,29.8,0.2,No,1,0
+1/8/2022,Volta,Cocoa,38.19,24.8,0.36,Yes,0,0
+1/8/2022,Northern,Maize,39.98,33,0.46,Yes,0,1
+1/9/2022,Volta,Rice,31.8,30.8,0.42,Yes,1,1
+1/9/2022,Volta,Cocoa,45.24,26.8,0.32,Yes,0,1
+1/10/2022,Northern,Cassava,27.53,30.7,0.19,Yes,0,0
+1/10/2022,Northern,Cassava,30.89,32.1,0.14,No,0,1
+1/10/2022,Western,Cocoa,51.92,28.1,0.49,No,0,1
+1/10/2022,Volta,Maize,40.73,31.6,0.33,Yes,1,1
+1/11/2022,Western,Cassava,48.51,31.3,0.42,Yes,1,0
+1/11/2022,Western,Cocoa,55.05,26.5,0.5,Yes,1,1
+1/11/2022,Volta,Cassava,54.85,29.1,0.47,Yes,1,1
+1/13/2022,Ashanti,Maize,42.59,27,0.5,Yes,1,1
+1/13/2022,Greater Accra,Rice,20.41,31.3,0.33,Yes,0,1
+1/14/2022,Northern,Cassava,33.07,33.6,0.45,Yes,0,0
+1/14/2022,Ashanti,Cocoa,59.68,30.4,0.51,Yes,0,1
+1/15/2022,Volta,Cassava,42.72,29.8,0.28,Yes,0,0
+1/15/2022,Ashanti,Maize,55.8,27.7,0.52,Yes,1,1
+1/17/2022,Ashanti,Maize,44.77,29.2,0.43,No,1,1
+1/17/2022,Greater Accra,Cassava,25.48,29.1,0.25,Yes,0,0
+1/17/2022,Northern,Cocoa,24.89,33,0.24,Yes,0,0
+1/18/2022,Northern,Yam,32.43,30.5,0.37,Yes,0,0
+1/18/2022,Northern,Cocoa,26.45,29.8,0.21,Yes,1,1
+1/18/2022,Western,Yam,43.94,23.9,0.58,No,0,1
+1/18/2022,Northern,Cocoa,24.15,32.2,0.13,Yes,0,0
+1/18/2022,Volta,Rice,44.51,27.3,0.38,No,0,1
+1/19/2022,Greater Accra,Cassava,21.84,32.4,0.43,Yes,0,0
+1/20/2022,Ashanti,Rice,46.49,25.5,0.46,Yes,0,0
+1/20/2022,Greater Accra,Cocoa,30.2,32.2,0.18,Yes,0,0
+1/20/2022,Western,Maize,66.01,27.4,0.61,Yes,1,1
+1/20/2022,Greater Accra,Rice,22.13,,,,0,1
+1/20/2022,Greater Accra,Cocoa,20.91,,,,0,0
+1/21/2022,Northern,Rice,33.49,,,,0,0
+1/21/2022,Western,Yam,65.45,,,,0,0
+1/21/2022,Ashanti,Rice,43.28,,,,0,1
+1/21/2022,Western,Cocoa,53.77,,,,0,1
+1/22/2022,Volta,Cocoa,40.09,30.2,0.36,No,1,1
+1/22/2022,Volta,Cassava,39.48,28.5,0.39,Yes,0,1
+1/22/2022,Northern,Maize,28.39,33.3,0.19,Yes,0,0
+1/22/2022,Western,Maize,40.04,27,0.7,Yes,0,1
+1/23/2022,Northern,Maize,28.08,34.7,0.3,No,0,0
+1/24/2022,Volta,Cocoa,37.3,24.4,0.36,Yes,0,1
+1/24/2022,Greater Accra,Cassava,24.9,28.7,0.19,No,0,1
+1/24/2022,Volta,Cassava,35.04,27.5,0.51,Yes,0,1
+1/24/2022,Northern,Rice,25.6,32.1,0.32,No,1,1
+1/25/2022,Northern,Cassava,29.9,32,0.33,No,0,0
+1/25/2022,Greater Accra,Maize,21.57,27.4,0.26,No,1,1
+1/25/2022,Greater Accra,Cocoa,24.83,31,0.31,No,1,1
+1/25/2022,Greater Accra,Maize,27.9,28.7,0.27,Yes,0,0
+1/26/2022,Northern,Yam,40.4,34.1,0.3,No,0,0
+1/26/2022,Greater Accra,Cocoa,28.12,30.1,0.22,No,0,0
+1/27/2022,Volta,Cocoa,,,,,,1
+1/27/2022,Ashanti,Cassava,,,,,,1
+1/27/2022,Western,Cassava,,,,,,1
+1/27/2022,Ashanti,Cocoa,,,,,,1
+1/27/2022,Western,Maize,,,,,,
+1/27/2022,Northern,Cocoa,30.57,29.8,0.39,Yes,1,
+1/28/2022,Western,Rice,51.32,26,0.53,Yes,0,
+1/28/2022,Northern,Rice,46.64,32.5,0.33,Yes,0,
+1/28/2022,Northern,Rice,29.35,28.5,0.26,No,0,
+1/29/2022,Northern,Maize,28.49,31.3,0.21,Yes,1,
+1/29/2022,Volta,Yam,48.3,34.2,0.47,Yes,0,
+1/29/2022,Western,Rice,47.5,27.1,0.37,No,0,0
+1/30/2022,Western,Maize,49.83,30.9,0.3,Yes,0,1
+1/30/2022,Volta,Yam,30.13,30.4,0.3,Yes,0,0
+1/30/2022,Northern,Maize,36.74,30.6,0.3,Yes,0,0
+1/31/2022,Greater Accra,Maize,31.38,29.8,0.22,Yes,1,1
+1/31/2022,Northern,Yam,33.11,29.6,0.2,Yes,0,1
+1/31/2022,Western,Yam,69.21,28.3,0.42,Yes,0,0
+2/1/2022,,,44.21,28.5,0.26,Yes,0,1
+2/1/2022,,,54.15,26.9,0.29,Yes,0,0
+2/2/2022,,,48.49,28.7,0.45,Yes,0,1
+2/2/2022,,,79.95,30.3,0.59,No,0,1
+2/2/2022,,,49.26,26.7,0.46,Yes,0,1
+2/3/2022,,,28.19,29,0.36,No,1,1
+2/4/2022,,,24.52,31.5,0.27,Yes,0,0
+2/4/2022,Volta,Yam,34.53,30.3,0.34,No,0,1
+2/4/2022,Greater Accra,Cocoa,23.75,31.2,0.41,No,0,1
+2/4/2022,Ashanti,Cocoa,43.38,26.7,0.35,No,0,1
+2/4/2022,Northern,Rice,31.79,31,0.42,No,0,0
+2/5/2022,Western,Cocoa,56.93,28.9,0.36,Yes,0,1
+2/5/2022,Greater Accra,Rice,30.22,31.2,0.29,Yes,1,1
+2/5/2022,Greater Accra,Yam,24.56,31.7,0.31,No,0,0
+2/5/2022,Western,Cocoa,62.33,28.8,0.47,Yes,0,1
+2/5/2022,Volta,Cocoa,42.98,29.6,0.38,No,0,1
+2/6/2022,Northern,Cocoa,34.91,30.3,0.25,No,0,1
+2/7/2022,Northern,Maize,30.16,27.7,0.29,Yes,0,1
+2/7/2022,Western,Rice,48.72,25.3,0.32,Yes,0,0
+2/8/2022,Western,Cocoa,59.81,27.9,0.55,Yes,0,1
+2/8/2022,Western,Maize,63.93,30.8,0.58,No,0,0
+2/9/2022,Ashanti,Maize,63.43,27,0.52,Yes,0,1
+2/9/2022,Volta,Cocoa,38.6,29.4,0.27,Yes,0,0
+2/9/2022,Volta,Cassava,46.69,29.4,0.25,Yes,0,1
+2/9/2022,Greater Accra,Cassava,27.66,33.2,0.37,Yes,0,0
+2/10/2022,Greater Accra,Yam,25.65,30.7,0.19,No,0,0
+2/10/2022,Ashanti,Maize,50.57,34.8,0.35,Yes,0,1
+2/10/2022,Ashanti,Yam,32.55,30.3,0.46,No,1,1
+2/10/2022,Volta,Rice,55.43,28.8,0.38,No,0,0
+2/10/2022,Greater Accra,Cassava,26.52,32.7,,,1,0
+2/10/2022,Northern,Rice,22.07,32,,,0,0
+2/10/2022,Western,Cocoa,44.89,27.3,,,1,1
+2/10/2022,Ashanti,Yam,50.12,27.3,,,0,1
+2/10/2022,Volta,Cassava,46.88,29.5,,,1,0
+2/11/2022,Greater Accra,Yam,25.77,28.9,0.37,Yes,0,0
+2/11/2022,Greater Accra,Yam,30.61,29.9,0.19,No,1,1
+2/11/2022,Western,Cocoa,66.92,27.5,0.37,Yes,1,1
+2/11/2022,Greater Accra,Rice,24.49,26.7,0.4,Yes,0,1
+2/11/2022,Volta,Yam,43.33,28.5,0.48,No,0,0
+2/11/2022,Northern,Maize,35.51,31.4,0.33,Yes,0,1
+2/12/2022,Western,Maize,50.81,26.3,0.53,Yes,0,0
+2/12/2022,Northern,Maize,46.5,26.2,0.45,Yes,0,1
+2/12/2022,Greater Accra,Maize,24.59,30.2,0.4,No,1,0
+2/13/2022,Greater Accra,Cassava,26.73,29.2,0.28,Yes,0,0
+2/13/2022,Volta,Yam,44.11,28.8,0.31,Yes,0,1
+2/14/2022,Western,Cassava,53.47,26.8,0.35,Yes,1,1
+2/14/2022,Western,Maize,49.41,28.1,0.51,Yes,0,0
+2/14/2022,Western,Cocoa,52.14,30.7,0.5,No,0,1
+2/15/2022,Greater Accra,Rice,23.71,32,0.21,No,0,0
+2/16/2022,Ashanti,Maize,30.84,25.9,0.44,Yes,0,1
+2/16/2022,Volta,Rice,43.95,26.8,0.24,Yes,1,1
+2/16/2022,Ashanti,,,,0.5,Yes,1,1
+2/16/2022,Western,,,,0.66,No,0,1
+2/20/2022,Ashanti,,,,0.51,Yes,0,0
+2/20/2022,Western,,,,0.4,No,0,1
+2/21/2022,Western,,,,0.48,Yes,1,1
+2/21/2022,Ashanti,Cocoa,52.48,26.9,0.3,No,0,1
+2/21/2022,Volta,Yam,50.65,27.6,0.39,Yes,0,0
+2/21/2022,Northern,Maize,29.12,29.3,0.21,No,1,0
+2/21/2022,Western,Cassava,46.14,25.6,0.45,No,1,1
+2/21/2022,Western,Yam,65.51,29.5,0.2,No,1,1
+2/22/2022,Volta,Cassava,24.88,27.5,0.38,Yes,0,1
+2/22/2022,Western,Maize,51.77,29.3,0.44,Yes,1,1
+2/22/2022,Greater Accra,Yam,24.2,31.4,0.21,No,1,0
+2/23/2022,Volta,Yam,49.89,29.1,0.45,Yes,0,1
+2/23/2022,,,,,0.31,Yes,1,1
+2/23/2022,,,,,0.48,Yes,1,1
+2/24/2022,,,,,0.35,Yes,0,1
+2/25/2022,,,,,0.38,Yes,0,0
+2/25/2022,,,,,0.58,Yes,1,1
+2/25/2022,Western,Cassava,60.03,30.3,0.68,Yes,1,1
+2/26/2022,Western,Yam,56.54,29.2,0.44,Yes,1,1
+2/26/2022,Greater Accra,Cassava,25.58,31.2,0.27,Yes,0,1
+2/26/2022,Northern,Rice,39.93,30.5,0.1,Yes,1,1
+2/26/2022,Volta,Maize,44.46,29,0.42,Yes,0,1
+2/26/2022,Volta,Cocoa,35.67,29.4,0.4,No,1,1
+2/27/2022,Ashanti,Rice,50.95,30.3,0.45,Yes,1,1
+2/27/2022,Western,Maize,64.38,31.1,0.38,Yes,1,1
+2/27/2022,Western,Rice,50.32,26.7,0.36,Yes,1,1
+2/27/2022,Northern,Maize,26.22,32.3,0.3,Yes,0,0
+2/28/2022,Greater Accra,Cassava,21,29.9,0.48,Yes,0,1
+2/28/2022,Northern,Cassava,34.44,34.3,0.26,No,1,0
+2/28/2022,Northern,Yam,36.88,32.8,0.28,Yes,0,0
+2/28/2022,Western,Maize,45.27,24.7,0.45,No,1,1
+2/28/2022,Ashanti,Maize,65.34,27.5,0.37,No,0,1
+2/28/2022,Northern,Yam,30.11,33.3,0.29,No,1,1
+2/28/2022,Ashanti,Yam,55.11,24.3,0.34,Yes,1,0
+3/1/2022,Ashanti,Maize,53.55,31.7,0.4,Yes,1,1
+3/1/2022,Greater Accra,Rice,22.93,31.4,0.29,No,1,1
+3/1/2022,Volta,Yam,43.07,28,0.29,Yes,1,1
+3/1/2022,Greater Accra,Cocoa,19.17,32.8,0.23,Yes,0,1
+3/2/2022,Ashanti,Cassava,50.9,29.3,0.67,Yes,1,1
+3/2/2022,Volta,Rice,41.16,25.2,0.42,No,0,1
+3/3/2022,Northern,Cassava,31.51,35.5,0.17,No,0,0
+3/3/2022,Western,Cocoa,69.64,25.4,0.6,Yes,0,1
+3/3/2022,Greater Accra,Rice,23.09,28.7,0.23,Yes,0,1
+3/4/2022,Ashanti,Yam,51.68,26.3,0.49,No,0,0
+3/4/2022,Ashanti,Yam,44.71,29.7,0.42,Yes,1,1
+3/4/2022,Western,Maize,40.68,29.7,0.44,No,0,1
+3/5/2022,Greater Accra,Cocoa,12.83,31.3,0.34,No,0,0
+3/5/2022,Ashanti,Cocoa,52.66,25.8,0.64,Yes,0,1
+3/6/2022,Ashanti,Maize,56.8,27.9,0.3,Yes,0,0
+3/7/2022,Volta,Cassava,50.81,32.4,0.27,No,1,1
+3/7/2022,Western,Cassava,33.72,29.7,0.38,No,1,0
+3/8/2022,Greater Accra,Yam,24.05,29.9,0.29,Yes,1,0
+3/8/2022,Northern,Cassava,34.21,32.7,0.13,Yes,1,1
+3/8/2022,Western,Cocoa,48.56,26.7,0.38,Yes,1,1
+3/8/2022,Western,Cassava,52.99,29.2,0.58,Yes,0,1
+3/8/2022,Volta,Maize,36.56,33.1,0.22,Yes,0,1
+3/9/2022,Northern,Yam,32.41,29.3,0.34,No,1,0
+3/9/2022,Ashanti,Cassava,51.79,31.6,0.48,Yes,0,1
+3/9/2022,Western,Cassava,58.84,28.4,0.5,No,1,1
+3/9/2022,Ashanti,Maize,51.91,25.3,0.35,Yes,1,0
+3/9/2022,Northern,Cassava,27.61,28.8,0.13,Yes,0,0
+3/9/2022,Greater Accra,Maize,33.71,30.3,0.3,Yes,0,0
+3/9/2022,Western,Cocoa,36.09,28.6,0.45,No,0,1
+3/10/2022,Greater Accra,Maize,18.81,28.5,0.46,Yes,1,1
+3/10/2022,Greater Accra,Cocoa,21.66,31,0.32,No,0,1
+3/10/2022,Western,Cocoa,64.06,27,0.56,No,0,1
+3/11/2022,Volta,Cassava,44.84,27.2,0.31,No,0,0
+3/11/2022,Greater Accra,Maize,25.52,32,0.27,Yes,0,1
+3/11/2022,Western,Cocoa,72.16,34.5,0.53,Yes,0,1
+3/11/2022,Ashanti,Rice,52.11,31.5,0.52,No,0,1
+3/11/2022,Western,Yam,65.02,25.1,0.33,Yes,1,1
+3/13/2022,Western,Rice,70.13,27.7,0.7,Yes,0,0
+3/13/2022,Ashanti,Cocoa,46.28,31.3,0.48,No,0,0
+3/13/2022,Ashanti,Maize,45.08,23.6,0.32,No,1,1
+3/13/2022,Greater Accra,Yam,29.11,33.4,0.34,No,0,1
+3/14/2022,Ashanti,Cassava,37.18,29.7,0.57,No,0,1
+3/14/2022,Volta,Cassava,50.83,30.1,0.35,Yes,0,0
+3/15/2022,Volta,Cocoa,59.1,24.1,0.48,No,0,1
+3/15/2022,Greater Accra,Rice,18.08,30.3,0.18,Yes,0,0
+3/16/2022,Western,Cassava,56.21,24.3,0.29,No,0,0
+3/16/2022,Greater Accra,Cocoa,23.03,30.7,0.3,Yes,0,0
+3/16/2022,Western,Cocoa,38.85,29.8,0.37,No,1,1
+3/16/2022,Ashanti,Maize,58.55,27.1,0.41,No,1,1
+3/17/2022,Greater Accra,Cocoa,18.17,29.3,0.3,Yes,1,0
+3/17/2022,Volta,Cassava,30.9,26.9,0.5,Yes,0,0
+3/17/2022,Northern,Cocoa,31.7,32.8,0.12,Yes,0,0
+3/18/2022,Northern,Yam,29.32,30.1,0.39,No,1,1
+3/18/2022,Volta,Yam,44.66,28.5,0.59,No,0,1
+3/18/2022,Ashanti,Cassava,65.08,29.8,0.51,No,1,0
+3/19/2022,Ashanti,Yam,39.79,27.8,0.45,No,1,1
+3/20/2022,Greater Accra,Yam,27.65,26.6,0.43,Yes,0,1
+3/20/2022,Western,Rice,60.41,29.1,0.47,Yes,1,1
+3/20/2022,Northern,Cassava,41.38,33.1,0.43,No,0,1
+3/21/2022,Ashanti,Rice,53.38,28.1,0.6,Yes,0,1
+3/22/2022,Ashanti,Yam,62.83,27.5,0.53,Yes,1,1
+3/22/2022,Western,Cocoa,62.07,28.5,0.55,No,1,1
+3/22/2022,Ashanti,Maize,60.47,28.8,0.6,No,1,0
+3/22/2022,Northern,Cassava,28.39,31.1,0.1,Yes,0,1
+3/22/2022,Volta,Cocoa,51.34,25.3,0.36,No,0,0
+3/22/2022,Volta,Cocoa,42.79,32.1,0.4,Yes,0,1
+3/22/2022,Western,Cassava,54.9,25.9,0.51,No,1,1
+3/23/2022,Ashanti,Yam,59.21,27.9,0.54,Yes,0,1
+3/23/2022,Volta,Maize,36.37,27.8,0.29,Yes,0,1
+3/24/2022,Western,Cassava,36.85,28.7,0.66,No,1,1
+3/24/2022,Greater Accra,Maize,24.68,32.1,0.34,Yes,1,1
+3/24/2022,Ashanti,Rice,62.79,30,0.42,Yes,0,1
+3/24/2022,Ashanti,Maize,62.9,27.1,0.36,Yes,1,1
+3/25/2022,Northern,Maize,30.73,30.8,0.1,Yes,1,1
+3/25/2022,Volta,Maize,42.66,30.1,0.39,Yes,0,1
+3/25/2022,Northern,Rice,33.49,31.3,0.33,Yes,0,0
+3/25/2022,Northern,Rice,27.18,31.7,0.29,Yes,0,0
+3/25/2022,Greater Accra,Maize,20.83,32,0.29,Yes,0,0
+3/26/2022,Volta,Yam,34.26,29.1,0.48,Yes,0,1
+3/26/2022,Greater Accra,Cocoa,27.65,31.7,0.13,No,1,1
+3/26/2022,Ashanti,Yam,42.76,25.7,0.35,No,1,0
+3/27/2022,Volta,Yam,40.66,28.4,0.31,Yes,1,1
+3/29/2022,Ashanti,Maize,50.31,27,0.43,No,0,1
+3/29/2022,Western,Maize,26.45,28.9,0.7,No,1,1
+3/29/2022,Western,Cocoa,57.79,25.9,0.5,Yes,0,1
+3/30/2022,Western,Yam,58.49,29.7,0.27,Yes,0,0
+3/31/2022,Volta,Cassava,35.66,30.6,0.42,Yes,1,1
+4/1/2022,Ashanti,Cocoa,263.09,26.1,0.62,Yes,0,1
+4/2/2022,Ashanti,Maize,320.05,28,0.67,No,1,1
+4/2/2022,Northern,Rice,215.4,27.6,0.34,No,0,1
+4/2/2022,Volta,Yam,187.49,24.5,0.49,Yes,0,1
+4/3/2022,Northern,Yam,140.94,25.8,0.2,Yes,0,1
+4/3/2022,Western,Cocoa,239.66,24.3,0.49,No,0,1
+4/4/2022,Volta,Rice,225.75,26.1,0.55,Yes,1,1
+4/4/2022,Northern,Cassava,203.6,24.6,0.35,No,1,1
+4/5/2022,Northern,Maize,136.66,29.2,0.42,Yes,1,1
+4/6/2022,Western,Rice,237.93,24,0.51,No,1,1
+4/6/2022,Volta,Cocoa,190.86,24,0.54,No,1,1
+4/6/2022,Greater Accra,Cocoa,149.99,20.7,0.47,Yes,1,1
+4/6/2022,Volta,Yam,263.12,28.5,0.44,Yes,0,1
+4/7/2022,Greater Accra,Maize,121.89,29.9,0.4,Yes,1,1
+4/7/2022,Northern,Cassava,168.83,22.8,0.2,No,1,1
+4/8/2022,Greater Accra,Cassava,137.3,29.3,0.36,Yes,0,0
+4/8/2022,Western,Yam,269.72,28,0.7,No,0,1
+4/9/2022,Greater Accra,Maize,113.18,28.6,0.49,No,1,1
+4/10/2022,Greater Accra,Cassava,112.59,26.2,0.35,Yes,1,1
+4/10/2022,Ashanti,Maize,306.49,26.1,0.48,Yes,0,1
+4/10/2022,Ashanti,Cocoa,177.33,21.4,0.38,No,0,1
+4/10/2022,Western,Yam,240.85,24.9,0.7,Yes,1,0
+4/10/2022,Northern,Rice,235.5,32.2,0.26,No,0,1
+4/10/2022,Greater Accra,Cocoa,168.76,29,0.43,No,1,1
+4/11/2022,Ashanti,Cassava,170.21,28.6,0.6,Yes,1,1
+4/11/2022,Western,Yam,256.81,24.2,0.7,Yes,1,1
+4/12/2022,Volta,Yam,195.54,26.2,0.45,No,1,1
+4/12/2022,Northern,Cassava,180.25,30.7,0.27,Yes,0,1
+4/12/2022,Western,Rice,290.5,23,0.6,Yes,1,1
+4/12/2022,Greater Accra,Cocoa,121.71,27.2,0.41,Yes,0,1
+4/13/2022,Ashanti,Cocoa,271.28,24.5,0.52,Yes,0,1
+4/14/2022,Greater Accra,Maize,144.5,28.6,0.52,Yes,0,1
+4/14/2022,Northern,Yam,158.82,28.3,0.31,No,1,1
+4/15/2022,Western,Rice,340.67,26.8,0.6,No,1,0
+4/15/2022,Ashanti,Maize,313.06,22.7,0.45,No,1,1
+4/15/2022,Greater Accra,Cassava,113.42,22.7,0.37,Yes,1,0
+4/15/2022,Ashanti,Yam,272.7,23.7,0.6,No,1,1
+4/16/2022,Northern,Yam,137.94,28.1,0.18,No,0,0
+4/16/2022,Volta,Rice,215.9,29.9,0.39,No,0,1
+4/16/2022,Western,Yam,282.66,22.6,0.56,Yes,0,1
+4/16/2022,Greater Accra,Maize,103.21,27.9,0.25,Yes,0,0
+4/17/2022,Ashanti,Maize,368.65,26.1,0.3,Yes,1,1
+4/17/2022,Greater Accra,Cocoa,102.6,24.7,0.37,Yes,1,1
+4/17/2022,Western,Yam,347.12,24.1,0.68,Yes,1,1
+4/17/2022,Northern,Maize,163.68,23.4,0.4,Yes,0,1
+4/17/2022,Western,Rice,278.54,26.5,0.67,Yes,1,1
+4/18/2022,Ashanti,Cocoa,205.28,23.5,0.55,Yes,1,1
+4/20/2022,Ashanti,Cocoa,152.34,27.9,0.7,No,1,1
+4/20/2022,Western,Yam,335.25,26,0.66,Yes,1,1
+4/20/2022,Greater Accra,Maize,116.79,28.4,0.3,Yes,0,1
+4/20/2022,Northern,Yam,205.34,24,0.21,Yes,0,1
+4/20/2022,Northern,Cocoa,148.36,31,0.44,Yes,1,1
+4/20/2022,Ashanti,Yam,241.1,24.9,0.47,No,1,1
+4/21/2022,Northern,Yam,139.5,30.2,0.46,No,0,1
+4/21/2022,Volta,Cassava,137.45,25.4,0.62,Yes,1,1
+4/21/2022,Western,Cocoa,233.27,22.7,0.5,Yes,0,1
+4/21/2022,Northern,Maize,124.1,28,0.34,No,0,0
+4/22/2022,Volta,Yam,174.58,27.2,0.39,No,0,1
+4/22/2022,Volta,Rice,256.71,27.7,0.63,No,1,1
+4/22/2022,Ashanti,Yam,223.67,28.7,0.54,Yes,0,1
+4/23/2022,Volta,Cassava,162.69,24.5,0.57,No,0,1
+4/23/2022,Volta,Cocoa,192.57,24.3,0.6,Yes,0,1
+4/24/2022,Greater Accra,Cocoa,101.94,25,0.37,Yes,1,1
+4/24/2022,Northern,Maize,114.05,28,0.35,No,0,1
+4/25/2022,Volta,Rice,119.25,28.7,0.52,Yes,1,1
+4/25/2022,Western,Rice,275.33,26.2,0.62,No,1,1
+4/25/2022,Greater Accra,Maize,122.14,26.8,0.44,Yes,1,1
+4/26/2022,Volta,Yam,269.14,26,0.46,Yes,1,0
+4/26/2022,Western,Rice,248.38,21.3,0.58,Yes,0,1
+4/26/2022,Volta,Cassava,153.03,26.2,0.49,Yes,0,1
+4/26/2022,Greater Accra,Cocoa,87.05,25.9,0.31,Yes,1,1
+4/26/2022,Volta,Cassava,201.92,25.9,0.5,Yes,0,0
+4/27/2022,Volta,Maize,252.3,27.1,0.56,Yes,1,1
+4/27/2022,Northern,Cocoa,111,32,0.21,No,1,1
+4/27/2022,Northern,Maize,188.23,28.1,0.3,No,1,0
+4/28/2022,Greater Accra,Rice,92.21,30.8,0.38,Yes,0,1
+4/28/2022,Ashanti,Yam,193.57,28.9,0.59,Yes,1,1
+4/28/2022,Volta,Cassava,178.57,26.3,0.52,Yes,0,1
+4/28/2022,Greater Accra,Cocoa,116.18,25.6,0.3,No,1,1
+4/29/2022,Northern,Cocoa,102.74,30.1,0.27,No,0,1
+4/29/2022,Northern,Cocoa,159.19,25.7,0.23,Yes,1,1
+4/29/2022,Northern,Cassava,161.75,31.7,0.1,Yes,0,0
+4/30/2022,Western,Yam,283.95,24.2,0.5,Yes,1,1
+4/30/2022,Northern,Cocoa,176.9,28.4,0.31,Yes,0,1
+4/30/2022,Northern,Yam,162.39,27.1,0.33,Yes,0,0
+5/1/2022,Western,Rice,254.32,26.5,0.49,Yes,1,1
+5/2/2022,Northern,Rice,153.62,27.5,0.24,No,1,1
+5/2/2022,Greater Accra,Yam,133.71,28.6,0.4,No,0,1
+5/2/2022,Greater Accra,Yam,102.32,23.3,0.26,Yes,1,1
+5/2/2022,Western,Maize,327.65,23.7,0.59,Yes,1,1
+5/2/2022,Volta,Cocoa,223.26,21.8,0.54,Yes,0,1
+5/2/2022,Volta,Cassava,150.07,29.1,0.53,Yes,1,1
+5/2/2022,Volta,Yam,193.16,22.9,0.33,No,0,0
+5/3/2022,Western,Yam,339.72,24,0.61,No,0,1
+5/3/2022,Volta,Cassava,159.71,26.7,0.42,Yes,0,1
+5/3/2022,Ashanti,Maize,373.93,24.9,0.64,Yes,0,0
+5/3/2022,Ashanti,Maize,287.72,24.3,0.65,Yes,0,0
+5/4/2022,Northern,Yam,218.53,24.2,0.25,Yes,0,0
+5/4/2022,Volta,Cassava,192.2,26.4,0.53,Yes,1,1
+5/4/2022,Ashanti,Cassava,186,23.3,0.59,Yes,0,1
+5/4/2022,Volta,Cocoa,210.65,26.7,0.43,No,0,1
+5/4/2022,Volta,Cassava,207.89,26.1,0.4,No,1,1
+5/5/2022,Ashanti,Rice,242.28,26.5,0.44,No,0,1
+5/5/2022,Volta,Maize,193.8,24.3,0.5,Yes,0,1
+5/6/2022,Greater Accra,Rice,129.89,27,0.39,No,1,0
+5/6/2022,Ashanti,Rice,288.71,27.6,0.48,Yes,1,1
+5/7/2022,Ashanti,Cassava,196.65,24.2,0.57,Yes,1,1
+5/8/2022,Western,Cassava,201.26,31,0.7,No,0,1
+5/8/2022,Volta,Rice,163.88,31.5,0.51,Yes,1,1
+5/8/2022,Volta,Rice,218.83,28.5,0.48,Yes,1,1
+5/9/2022,Western,Cassava,282.44,25.3,0.48,Yes,0,1
+5/9/2022,Northern,Cassava,197.24,26.9,0.2,Yes,1,1
+5/9/2022,Volta,Cassava,167.99,21.9,0.56,No,0,1
+5/9/2022,Ashanti,Cocoa,229.07,23.3,0.54,Yes,1,1
+5/10/2022,Western,Cassava,269.7,26.4,0.63,Yes,1,1
+5/10/2022,Northern,Maize,165.84,30.4,0.34,Yes,0,0
+5/10/2022,Northern,Cassava,127.48,29.1,0.35,No,0,1
+5/11/2022,Ashanti,Maize,203.77,21.2,0.61,Yes,1,1
+5/11/2022,Ashanti,Maize,258.83,22.5,0.67,Yes,0,1
+5/11/2022,Volta,Cocoa,243.11,27.3,0.57,Yes,0,1
+5/11/2022,Ashanti,Rice,278.47,23.1,0.48,No,1,1
+5/11/2022,Western,Cocoa,249.99,21.6,0.48,No,1,1
+5/12/2022,Ashanti,Cocoa,259.53,25.7,0.53,Yes,0,0
+5/12/2022,Volta,Yam,285.7,29.7,0.29,Yes,1,1
+5/12/2022,Ashanti,Maize,302.61,25.7,0.44,Yes,0,1
+5/12/2022,Greater Accra,Yam,117.23,26,0.33,No,1,1
+5/12/2022,Greater Accra,Maize,104.44,24.9,0.47,No,0,1
+5/12/2022,Western,Rice,412.19,24.5,0.54,Yes,0,0
+5/12/2022,Volta,Maize,146.07,25.8,0.53,Yes,0,1
+5/12/2022,Volta,Rice,225.87,25.5,0.59,Yes,1,1
+5/13/2022,Ashanti,Cocoa,336.91,25.9,0.54,Yes,1,1
+5/13/2022,Western,Yam,200.78,25,0.7,No,0,1
+5/13/2022,Western,Cassava,343.98,21.4,0.69,No,1,1
+5/13/2022,Northern,Cocoa,185.86,25.7,0.36,Yes,1,1
+5/14/2022,Greater Accra,Maize,97.82,25.1,0.35,No,1,1
+5/15/2022,Volta,Yam,217.48,26.8,0.6,No,0,1
+5/16/2022,Ashanti,Yam,336.81,25.1,0.7,Yes,0,1
+5/16/2022,Volta,Yam,159.92,29.8,0.61,No,0,1
+5/17/2022,Western,Yam,376.22,26.6,0.47,No,1,1
+5/17/2022,Ashanti,Yam,194.47,25.6,0.42,No,0,1
+5/17/2022,Northern,Cassava,225.96,25,0.32,No,0,1
+5/17/2022,Western,Rice,334.06,27.1,0.7,No,0,1
+5/18/2022,Ashanti,Rice,291.35,26.6,0.64,Yes,0,1
+5/19/2022,Volta,Rice,163.4,24.9,0.51,No,0,1
+5/19/2022,Greater Accra,Cassava,145.24,23.9,0.42,No,0,1
+5/19/2022,Western,Cocoa,363.29,23.4,0.59,No,1,0
+5/19/2022,Western,Yam,281.33,24.2,0.63,Yes,1,1
+5/20/2022,Volta,Yam,303.1,26.8,0.51,No,0,1
+5/20/2022,Greater Accra,Yam,127.58,26.3,0.23,No,0,1
+5/20/2022,Ashanti,Rice,164.28,21.5,0.4,Yes,0,1
+5/20/2022,Greater Accra,Cocoa,96.26,24.8,0.4,No,0,0
+5/21/2022,Northern,Cassava,168.52,27.1,0.49,No,0,1
+5/21/2022,Greater Accra,Rice,85.32,27.2,0.38,Yes,1,1
+5/21/2022,Greater Accra,Cassava,113.1,25,0.27,No,1,1
+5/21/2022,Greater Accra,Maize,138.09,24.9,0.32,Yes,1,1
+5/21/2022,Western,Yam,230.66,23,0.49,Yes,0,1
+5/22/2022,Western,Yam,199.27,23.7,0.41,No,1,1
+5/22/2022,Greater Accra,Cocoa,138.59,26.9,0.51,Yes,1,1
+5/22/2022,Ashanti,Maize,269.19,24,0.56,Yes,1,1
+5/22/2022,Greater Accra,Cocoa,93.03,30.3,0.47,Yes,1,1
+5/22/2022,Volta,Rice,277.8,23.9,0.41,Yes,0,1
+5/22/2022,Volta,Yam,167.28,23.5,0.44,No,1,1
+5/23/2022,Northern,Cassava,138.29,19.4,0.42,No,0,1
+5/23/2022,Greater Accra,Yam,141.54,26.5,0.32,Yes,0,0
+5/23/2022,Volta,Yam,217.82,27.9,0.53,Yes,1,1
+5/24/2022,Northern,Rice,152.98,25.1,0.54,Yes,0,0
+5/25/2022,Northern,Cassava,223.61,28.8,0.54,Yes,1,0
+5/25/2022,Ashanti,Maize,265.18,22.4,0.61,No,0,1
+5/25/2022,Greater Accra,Rice,129.92,26.2,0.38,Yes,1,1
+5/26/2022,Greater Accra,Maize,117.05,25.1,0.34,Yes,1,1
+5/26/2022,Ashanti,Cocoa,244.23,25.1,0.68,No,1,1
+5/26/2022,Northern,Rice,157.6,28.8,0.29,Yes,0,0
+5/26/2022,Greater Accra,Maize,78.95,25.1,0.35,Yes,1,1
+5/27/2022,Northern,Maize,177.21,28.3,0.26,Yes,0,0
+5/28/2022,Northern,Yam,182.36,24.6,0.38,No,0,1
+5/28/2022,Volta,Rice,191.95,27.6,0.6,No,0,1
+5/28/2022,Western,Rice,311.45,25.6,0.58,No,0,1
+5/29/2022,Volta,Maize,234.36,25.5,0.3,Yes,0,1
+5/29/2022,Greater Accra,Yam,95.9,27.3,0.39,Yes,1,1
+5/29/2022,Greater Accra,Rice,127.24,30.6,0.38,No,1,1
+5/30/2022,Northern,Rice,152.89,27.3,0.14,No,1,1
+5/30/2022,Ashanti,Rice,250,24.2,0.54,No,1,0
+5/30/2022,Volta,Rice,197.18,24.3,0.4,Yes,1,1
+5/31/2022,Volta,Maize,218.63,24.8,0.38,Yes,1,1
+5/31/2022,Volta,Maize,247.02,23.6,0.47,No,1,1
+6/1/2022,Greater Accra,Rice,94.61,22.9,0.38,Yes,1,0
+6/1/2022,Western,Rice,288.84,20.9,0.63,Yes,0,1
+6/1/2022,Ashanti,Cocoa,302.06,23.6,0.7,Yes,0,1
+6/1/2022,Western,Yam,309.3,23.6,0.52,Yes,1,1
+6/1/2022,Ashanti,Rice,218.88,23.5,0.59,Yes,1,1
+6/1/2022,Western,Maize,325.14,28.3,0.44,No,0,1
+6/3/2022,Ashanti,Rice,236.14,29.8,0.64,Yes,1,1
+6/4/2022,Ashanti,Maize,226.44,28.6,0.59,Yes,0,1
+6/4/2022,Ashanti,Cassava,217.24,29,0.51,Yes,0,1
+6/4/2022,Ashanti,Cassava,180.78,26.7,0.46,No,1,1
+6/4/2022,Western,Yam,284.41,29.8,0.7,Yes,0,1
+6/5/2022,Western,Rice,284.34,21.4,0.7,Yes,0,1
+6/6/2022,Greater Accra,Yam,150.74,27,0.49,Yes,1,1
+6/6/2022,Volta,Yam,237.4,27.8,0.48,No,1,1
+6/6/2022,Ashanti,Rice,220.16,24.1,0.57,Yes,0,1
+6/6/2022,Volta,Maize,163.71,24.7,0.45,Yes,1,1
+6/7/2022,Volta,Cassava,239.26,23.9,0.66,Yes,0,1
+6/7/2022,Western,Cocoa,297.37,22.4,0.7,Yes,1,1
+6/7/2022,Northern,Maize,151.91,32.2,0.26,Yes,1,1
+6/8/2022,Volta,Cocoa,162.83,23.6,0.7,Yes,1,1
+6/8/2022,Volta,Cassava,174.43,26.1,0.36,Yes,0,1
+6/8/2022,Western,Cocoa,270.74,22,0.46,No,1,1
+6/9/2022,Volta,Yam,200.05,28.4,0.37,Yes,0,1
+6/9/2022,Ashanti,Cassava,285.86,25.1,0.48,Yes,0,1
+6/9/2022,Western,Cocoa,250.32,25.5,0.6,No,0,1
+6/9/2022,Northern,Cocoa,224.57,26.8,0.39,No,1,1
+6/9/2022,Volta,Yam,205.48,26.4,0.48,Yes,0,0
+6/10/2022,Volta,Maize,158.63,24.1,0.58,Yes,0,1
+6/10/2022,Volta,Maize,235.22,23.3,0.46,Yes,1,1
+6/10/2022,Greater Accra,Rice,113.16,26.2,0.38,Yes,0,1
+6/10/2022,Volta,Cocoa,201.65,25,0.33,Yes,0,1
+6/11/2022,Greater Accra,Cocoa,103.32,30.2,0.46,No,0,1
+6/11/2022,Western,Maize,277.48,25.4,0.7,Yes,0,1
+6/11/2022,Volta,Cocoa,225.45,25.5,0.52,Yes,0,1
+6/12/2022,Western,Maize,291.45,27.7,0.5,Yes,1,1
+6/12/2022,Volta,Cassava,105.93,29.6,0.56,Yes,0,1
+6/14/2022,Ashanti,Maize,252.5,22.6,0.45,No,0,1
+6/14/2022,Volta,Yam,208.77,24.6,0.49,No,0,1
+6/14/2022,Ashanti,Rice,229.5,23.6,0.6,Yes,1,1
+6/15/2022,Western,Rice,389.73,25.5,0.7,Yes,1,1
+6/15/2022,Ashanti,Yam,210.22,22.4,0.52,No,1,1
+6/15/2022,Greater Accra,Rice,144.29,27.2,0.4,Yes,1,0
+6/16/2022,Greater Accra,Cassava,134.78,25.6,0.3,Yes,1,0
+6/16/2022,Western,Cassava,302.52,25,0.6,Yes,0,1
+6/16/2022,Western,Rice,285.98,23.8,0.59,Yes,1,1
+6/16/2022,Greater Accra,Cocoa,115.94,27.9,0.31,No,0,1
+6/16/2022,Western,Cassava,374.93,24.7,0.7,No,0,1
+6/16/2022,Greater Accra,Yam,133.44,27.9,0.46,Yes,0,1
+6/17/2022,Ashanti,Cocoa,280.84,24,0.56,Yes,0,1
+6/17/2022,Volta,Maize,236.41,27.8,0.51,Yes,0,1
+6/18/2022,Northern,Rice,152.42,28.4,0.25,Yes,0,0
+6/19/2022,Greater Accra,Cassava,108.76,26,0.56,No,0,1
+6/19/2022,Western,Yam,250.13,26.5,0.54,Yes,1,0
+6/20/2022,Western,Maize,256.07,25.7,0.68,Yes,0,1
+6/20/2022,Northern,Yam,170.21,28,0.39,No,1,0
+6/20/2022,Greater Accra,Yam,114.83,25.5,0.34,Yes,1,1
+6/20/2022,Ashanti,Cocoa,182.6,25.5,0.6,No,1,1
+6/21/2022,Greater Accra,Cassava,144.67,25.7,0.29,Yes,0,0
+6/21/2022,Northern,Cassava,167.71,29.6,0.61,Yes,1,0
+6/21/2022,Volta,Maize,249.41,23.5,0.5,Yes,1,1
+6/22/2022,Western,Maize,217.65,25.6,0.7,Yes,0,1
+6/22/2022,Greater Accra,Rice,116.56,26,0.41,Yes,1,0
+6/22/2022,Northern,Cocoa,130.32,24.1,0.38,Yes,0,0
+6/23/2022,Northern,Cocoa,127.72,25,0.43,Yes,0,1
+6/23/2022,Volta,Cassava,226.03,26,0.54,Yes,0,1
+6/23/2022,Northern,Rice,200.36,34.8,0.38,Yes,0,1
+6/24/2022,Volta,Maize,232.76,29.5,0.47,Yes,0,1
+6/24/2022,Ashanti,Cocoa,189.5,27.3,0.42,Yes,0,1
+6/25/2022,Northern,Cassava,98.52,25.9,0.47,No,0,0
+6/25/2022,Ashanti,Cassava,352.92,21,0.63,No,1,1
+6/25/2022,Western,Maize,243.86,25.9,0.7,Yes,1,1
+6/26/2022,Northern,Cassava,73.03,28.1,0.31,No,1,1
+6/26/2022,Western,Yam,268.64,24.2,0.57,Yes,1,1
+6/26/2022,Greater Accra,Cocoa,132.25,27.4,0.34,Yes,1,1
+6/26/2022,Northern,Maize,176.12,24.6,0.29,No,1,1
+6/26/2022,Northern,Yam,196.62,29.4,0.47,No,1,1
+6/27/2022,Western,Yam,202.48,24.3,0.49,Yes,0,1
+6/28/2022,Volta,Yam,244,28,0.3,Yes,0,0
+6/29/2022,Volta,Cassava,232.07,24.1,0.56,No,1,1
+6/29/2022,Greater Accra,Maize,105.18,28.6,0.47,Yes,0,1
+6/29/2022,Northern,Cocoa,196.02,26.7,0.32,Yes,1,1
+6/29/2022,Western,Rice,327.61,27.2,0.69,Yes,0,1
+6/29/2022,Volta,Maize,211.33,24,0.47,Yes,1,1
+6/30/2022,Ashanti,Maize,234.04,26.2,0.67,No,1,1
+6/30/2022,Greater Accra,Cocoa,99.55,26.4,0.44,Yes,0,0
+6/30/2022,Northern,Maize,117.95,24.7,0.32,Yes,1,1
+6/30/2022,Western,Rice,281.43,23.9,0.61,No,1,1
+7/1/2022,Western,Rice,250.6,25.5,0.54,Yes,1,1
+7/1/2022,Greater Accra,Cassava,112.55,28.8,0.3,Yes,0,0
+7/1/2022,Volta,Rice,269.89,26.9,0.48,Yes,0,1
+7/2/2022,Volta,Maize,221.97,23.1,0.45,No,0,1
+7/2/2022,Ashanti,Yam,318.54,25.9,0.7,No,0,0
+7/2/2022,Northern,Cassava,181.21,32.4,0.43,Yes,1,1
+7/3/2022,Ashanti,Rice,267.04,25.8,0.69,No,1,1
+7/3/2022,Ashanti,Cocoa,164.67,26.2,0.55,Yes,0,1
+7/3/2022,Volta,Yam,262.81,23.3,0.49,Yes,1,1
+7/3/2022,Western,Maize,266.43,23.7,0.67,Yes,1,0
+7/4/2022,Greater Accra,Maize,100.62,27.6,0.37,No,1,1
+7/4/2022,Ashanti,Maize,274.37,24.6,0.52,Yes,1,1
+7/5/2022,Volta,Cocoa,233.77,22.3,0.36,No,0,1
+7/5/2022,Western,Maize,275.71,28,0.57,Yes,1,1
+7/5/2022,Western,Cocoa,370.71,26.4,0.64,No,1,0
+7/5/2022,Western,Yam,338.78,24.3,0.7,No,0,1
+7/5/2022,Western,Cocoa,305.63,26.6,0.6,Yes,1,1
+7/6/2022,Northern,Rice,143.74,20.5,0.28,Yes,1,1
+7/6/2022,Volta,Cassava,149.98,21.7,0.4,No,1,1
+7/6/2022,Volta,Rice,245.7,28.7,0.67,Yes,0,1
+7/6/2022,Ashanti,Cassava,209.56,27.5,0.64,Yes,0,1
+7/6/2022,Ashanti,Cassava,249.62,24.2,0.54,Yes,0,1
+7/7/2022,Greater Accra,Cassava,101.02,26.5,0.35,Yes,0,1
+7/7/2022,Ashanti,Maize,233.88,25.9,0.67,Yes,1,1
+7/7/2022,Greater Accra,Cocoa,152.94,28.3,0.29,No,0,0
+7/8/2022,Northern,Cocoa,175.41,28.5,0.31,Yes,1,1
+7/8/2022,Northern,Maize,185.2,29.8,0.3,No,1,1
+7/8/2022,Northern,Cocoa,179.06,26,0.28,Yes,0,1
+7/8/2022,Greater Accra,Yam,97.59,27.4,0.44,Yes,1,1
+7/8/2022,Greater Accra,Cassava,152.25,25.7,0.31,Yes,1,1
+7/8/2022,Greater Accra,Cassava,74.22,26.9,0.45,Yes,0,1
+7/9/2022,Ashanti,Rice,238.87,31,0.7,Yes,0,1
+7/9/2022,Western,Maize,270.32,24.9,0.7,Yes,1,1
+7/9/2022,Western,Cocoa,326.96,26.3,0.38,Yes,0,0
+7/10/2022,Western,Yam,289.7,22.8,0.7,Yes,0,1
+7/10/2022,Ashanti,Cocoa,277.81,24.2,0.61,Yes,1,1
+7/10/2022,Greater Accra,Rice,111.97,30.6,0.25,No,0,0
+7/10/2022,Ashanti,Cocoa,277.48,23.3,0.69,Yes,1,1
+7/10/2022,Ashanti,Yam,332.89,26.4,0.7,Yes,1,0
+7/12/2022,Volta,Yam,189.03,24.6,0.48,Yes,1,1
+7/12/2022,Volta,Cocoa,167.51,28,0.4,Yes,0,1
+7/13/2022,Northern,Yam,169.62,25.5,0.19,Yes,1,0
+7/13/2022,Ashanti,Maize,249.06,25.3,0.7,Yes,1,0
+7/13/2022,Greater Accra,Rice,132.28,23.3,0.65,No,0,0
+7/13/2022,Ashanti,Maize,239.34,26.6,0.56,No,1,1
+7/13/2022,Volta,Maize,135.08,23.8,0.42,No,0,1
+7/13/2022,Volta,Cocoa,307.8,28.1,0.58,Yes,0,1
+7/15/2022,Greater Accra,Rice,133.86,27.8,0.28,Yes,1,1
+7/15/2022,Volta,Maize,156.16,29.1,0.51,No,1,0
+7/15/2022,Ashanti,Cassava,251.47,25,0.59,No,1,0
+7/16/2022,Volta,Cassava,205.74,23.8,0.49,Yes,1,1
+7/16/2022,Volta,Rice,220.5,28.6,0.46,Yes,1,1
+7/16/2022,Western,Cocoa,143.37,23.4,0.56,Yes,0,1
+7/16/2022,Volta,Cocoa,258.12,25.8,0.55,Yes,0,1
+7/17/2022,Ashanti,Maize,295.76,25.5,0.55,Yes,0,1
+7/17/2022,Northern,Maize,167.91,27.3,0.43,Yes,1,1
+7/18/2022,Western,Yam,313.27,24.4,0.7,Yes,0,1
+7/18/2022,Volta,Cocoa,256.41,25.2,0.47,No,0,1
+7/18/2022,Volta,Rice,161.74,23,0.44,No,1,1
+7/18/2022,Western,Yam,242.49,26.1,0.61,Yes,1,1
+7/19/2022,Western,Cocoa,331.91,24,0.53,Yes,1,1
+7/19/2022,Greater Accra,Rice,85.69,26.5,0.25,No,1,1
+7/20/2022,Greater Accra,Rice,150.89,29.3,0.38,Yes,1,1
+7/21/2022,Ashanti,Cocoa,271.44,22.1,0.62,Yes,0,1
+7/21/2022,Western,Yam,267.58,26.4,0.69,No,0,1
+7/22/2022,Greater Accra,Cassava,176.68,25.3,0.54,Yes,0,1
+7/22/2022,Greater Accra,Cassava,109.51,28,0.35,Yes,1,1
+7/22/2022,Western,Rice,253.31,23.2,0.7,No,0,1
+7/22/2022,Northern,Cassava,126.09,30.7,0.26,Yes,0,1
+7/22/2022,Western,Cassava,332.98,25.4,0.7,No,0,1
+7/22/2022,Greater Accra,Cassava,165.71,28.2,0.32,Yes,1,1
+7/23/2022,Greater Accra,Yam,158.38,28.8,0.46,Yes,0,1
+7/23/2022,Ashanti,Cocoa,363.27,26.5,0.45,Yes,1,0
+7/23/2022,Northern,Cocoa,189.43,25.9,0.35,Yes,0,1
+7/23/2022,Volta,Yam,247.81,26.2,0.59,Yes,0,1
+7/23/2022,Western,Cassava,319.85,24.8,0.61,Yes,0,1
+7/24/2022,Western,Rice,273.86,25.9,0.6,Yes,0,1
+7/24/2022,Northern,Rice,172.68,24.8,0.25,No,0,1
+7/25/2022,Volta,Yam,224.56,26.7,0.59,Yes,0,1
+7/25/2022,Northern,Yam,189.09,30,0.44,Yes,0,1
+7/26/2022,Northern,Cocoa,136.01,26.7,0.41,Yes,1,1
+7/26/2022,Volta,Maize,242.05,25.8,0.47,No,1,1
+7/26/2022,Greater Accra,Rice,78.75,24.7,0.43,Yes,0,1
+7/27/2022,Northern,Yam,128.09,24.5,0.48,Yes,0,1
+7/27/2022,Greater Accra,Rice,128.73,28.2,0.38,No,0,1
+7/27/2022,Northern,Rice,130.65,27.9,0.5,Yes,0,1
+7/27/2022,Western,Rice,314.35,23.5,0.58,No,0,1
+7/27/2022,Ashanti,Maize,248.86,27.6,0.63,Yes,0,1
+7/27/2022,Greater Accra,Maize,146.39,28.1,0.35,Yes,1,0
+7/27/2022,Greater Accra,Maize,100.48,29,0.42,Yes,1,1
+7/27/2022,Northern,Cocoa,122.25,23.7,0.24,Yes,1,1
+7/27/2022,Ashanti,Rice,299.1,27.8,0.51,Yes,1,1
+7/27/2022,Western,Cocoa,230.39,27,0.64,No,0,1
+7/28/2022,Ashanti,Rice,230.46,21.4,0.42,Yes,1,1
+7/28/2022,Northern,Cassava,143.71,29.3,0.31,Yes,0,0
+7/28/2022,Greater Accra,Yam,108.44,27.9,0.45,No,1,0
+7/28/2022,Northern,Cassava,148.09,28.3,0.42,Yes,1,0
+7/28/2022,Ashanti,Cassava,290.5,22.7,0.61,Yes,1,1
+7/29/2022,Ashanti,Cassava,285.36,27.5,0.62,Yes,0,1
+7/29/2022,Volta,Maize,226.07,27.8,0.38,Yes,0,1
+7/29/2022,Greater Accra,Cassava,133.85,27.8,0.37,Yes,0,0
+7/29/2022,Volta,Cocoa,230.21,26.6,0.53,Yes,1,1
+7/30/2022,Northern,Rice,196.04,29.5,0.34,Yes,1,1
+7/30/2022,Volta,Yam,219.37,25.1,0.58,Yes,1,1
+7/30/2022,Ashanti,Rice,353.34,25.7,0.37,Yes,0,1
+7/31/2022,Volta,Yam,210.22,23.4,0.46,No,0,1
+7/31/2022,Northern,Maize,137.66,26.1,0.46,No,0,0
+7/31/2022,Volta,Yam,264.23,25.1,0.45,Yes,1,1
+7/31/2022,Northern,Cassava,150.99,30,0.33,No,1,0
+7/31/2022,Northern,Rice,209.64,29.1,0.22,Yes,1,1
+8/1/2022,Northern,Cocoa,164.63,31.7,0.56,No,1,1
+8/2/2022,Western,Rice,269.62,22.8,0.68,Yes,0,1
+8/2/2022,Volta,Maize,233.22,27,0.7,Yes,0,1
+8/2/2022,Greater Accra,Cocoa,141.03,27.4,0.45,Yes,1,0
+8/2/2022,Ashanti,Cassava,167.35,28.8,0.46,Yes,0,1
+8/2/2022,Western,Yam,318.9,25,0.64,Yes,1,1
+8/3/2022,Ashanti,Rice,199.44,22.8,0.63,No,0,1
+8/3/2022,Western,Maize,305.8,25.7,0.39,Yes,0,1
+8/4/2022,Northern,Cassava,151.73,25.9,0.42,Yes,0,0
+8/4/2022,Greater Accra,Rice,124.79,25.2,0.33,No,0,0
+8/4/2022,Northern,Cassava,112.05,26,0.25,No,1,0
+8/4/2022,Volta,Yam,163.23,26.8,0.47,Yes,0,1
+8/5/2022,Western,Cassava,247.68,25.9,0.7,No,1,0
+8/5/2022,Volta,Yam,109.65,23.3,0.46,Yes,0,1
+8/5/2022,Ashanti,Cassava,237.7,25.2,0.55,Yes,1,1
+8/6/2022,Volta,Cassava,183.12,27.4,0.6,Yes,0,1
+8/6/2022,Greater Accra,Yam,94.11,29.4,0.41,No,0,1
+8/7/2022,Ashanti,Cassava,221.63,26.5,0.51,No,0,1
+8/8/2022,Greater Accra,Maize,140.91,27.2,0.46,No,0,1
+8/8/2022,Northern,Maize,147.94,27.1,0.15,Yes,1,1
+8/8/2022,Greater Accra,Cocoa,152.6,30.2,0.43,No,1,1
+8/9/2022,Greater Accra,Yam,143.82,25.1,0.35,Yes,0,1
+8/9/2022,Ashanti,Cassava,308.96,27.2,0.6,Yes,1,1
+8/10/2022,Volta,Maize,261.53,24,0.61,Yes,1,1
+8/10/2022,Northern,Maize,144.64,26,0.24,No,1,1
+8/10/2022,Volta,Cocoa,192.34,23.8,0.36,Yes,1,1
+8/10/2022,Volta,Maize,221.92,24.4,0.47,Yes,1,1
+8/10/2022,Northern,Maize,205.07,28.6,0.23,Yes,0,1
+8/11/2022,Greater Accra,Yam,138.89,25.4,0.35,Yes,1,1
+8/11/2022,Ashanti,Maize,237.17,23.1,0.48,No,1,1
+8/11/2022,Volta,Maize,273.03,24.8,0.45,Yes,1,1
+8/11/2022,Greater Accra,Yam,132.94,23.9,0.41,No,0,1
+8/12/2022,Western,Maize,338.78,23,0.7,Yes,1,1
+8/12/2022,Volta,Rice,151.27,27,0.53,Yes,0,1
+8/12/2022,Greater Accra,Yam,104.21,26.4,0.36,Yes,0,1
+8/12/2022,Volta,Yam,242.14,23.5,0.56,Yes,1,1
+8/13/2022,Volta,Yam,219.44,25.5,0.41,Yes,1,1
+8/13/2022,Northern,Maize,198.5,26.1,0.18,No,0,1
+8/13/2022,Volta,Maize,165.5,22.9,0.43,Yes,0,0
+8/14/2022,Northern,Yam,209.59,26,0.19,No,1,1
+8/14/2022,Volta,Maize,223.8,28.7,0.46,Yes,0,1
+8/14/2022,Northern,Yam,147.33,28.8,0.5,No,0,1
+8/14/2022,Northern,Cocoa,158.83,27.2,0.41,Yes,0,1
+8/14/2022,Greater Accra,Cocoa,124.89,22.8,0.47,Yes,1,1
+8/15/2022,Volta,Cassava,176.88,25.1,0.55,Yes,1,1
+8/15/2022,Volta,Maize,228.64,26.6,0.47,No,0,1
+8/15/2022,Greater Accra,Cocoa,119.99,28.3,0.46,Yes,0,1
+8/15/2022,Northern,Rice,137.84,27.9,0.3,Yes,1,1
+8/15/2022,Northern,Rice,135.22,29.1,0.41,Yes,1,1
+8/16/2022,Greater Accra,Rice,123.3,25.2,0.52,Yes,1,0
+8/16/2022,Volta,Cocoa,172.14,23.1,0.47,Yes,0,1
+8/17/2022,Ashanti,Cassava,282.05,25.5,0.7,Yes,1,0
+8/17/2022,Greater Accra,Rice,126.43,25.6,0.53,No,1,1
+8/18/2022,Northern,Yam,102.65,25.9,0.33,Yes,1,1
+8/18/2022,Western,Yam,286.43,26.8,0.55,Yes,1,0
+8/18/2022,Western,Maize,431.38,20.9,0.7,Yes,1,1
+8/19/2022,Northern,Cocoa,175.7,30.4,0.46,No,0,1
+8/19/2022,Greater Accra,Cassava,85.02,24.3,0.39,Yes,0,1
+8/20/2022,Northern,Rice,225.26,27.2,0.42,Yes,1,1
+8/21/2022,Northern,Yam,101.07,28.3,0.45,Yes,0,1
+8/22/2022,Ashanti,Rice,212.95,26.4,0.66,Yes,1,1
+8/22/2022,Western,Yam,354.99,25.8,0.6,Yes,1,1
+8/22/2022,Ashanti,Cassava,242.51,23.1,0.7,Yes,0,1
+8/22/2022,Volta,Rice,214.2,25.3,0.43,Yes,1,0
+8/22/2022,Ashanti,Cocoa,212.83,25.1,0.39,Yes,1,1
+8/22/2022,Ashanti,Maize,297.33,25.2,0.7,Yes,1,1
+8/23/2022,Greater Accra,Rice,114.88,26.4,0.56,No,0,1
+8/23/2022,Greater Accra,Cassava,74.35,27.7,0.27,No,0,1
+8/23/2022,Western,Yam,223.91,26.2,0.7,Yes,0,1
+8/24/2022,Volta,Maize,168.5,29.8,0.33,No,0,0
+8/25/2022,Northern,Cassava,152,24.8,0.4,Yes,1,1
+8/25/2022,Greater Accra,Rice,101.62,27.1,0.44,Yes,1,1
+8/25/2022,Western,Yam,219.74,26.3,0.55,Yes,0,0
+8/26/2022,Volta,Rice,218.1,24.4,0.49,Yes,0,1
+8/26/2022,Northern,Cocoa,142.59,23.6,0.26,Yes,1,1
+8/26/2022,Western,Cocoa,325.98,24.3,0.65,No,1,1
+8/27/2022,Greater Accra,Cocoa,73.65,25.3,0.44,No,1,1
+8/27/2022,Greater Accra,Rice,120.73,26.4,0.34,Yes,0,1
+8/27/2022,Greater Accra,Maize,76.28,26.2,0.31,No,0,0
+8/28/2022,Western,Rice,329.83,25.8,0.6,Yes,1,1
+8/28/2022,Northern,Rice,166.87,28.7,0.33,No,1,1
+8/29/2022,Western,Yam,194.05,23.1,0.59,No,1,1
+8/29/2022,Western,Maize,295.31,27.6,0.46,Yes,0,1
+8/29/2022,Greater Accra,Maize,88.19,25.5,0.44,Yes,0,1
+8/30/2022,Ashanti,Rice,328.25,24.9,0.7,No,1,1
+8/30/2022,Northern,Yam,149.76,26.2,0.4,No,0,1
+8/30/2022,Northern,Rice,175.07,32.9,0.2,No,1,1
+8/31/2022,Ashanti,Yam,289.4,26.2,0.44,Yes,1,1
+8/31/2022,Western,Cassava,244.58,27,0.7,Yes,1,1
+8/31/2022,Volta,Yam,184.67,22.9,0.46,Yes,1,1
+8/31/2022,Northern,Cocoa,204.52,27.4,0.26,Yes,0,0
+9/1/2022,Ashanti,Cassava,327.23,26.2,0.58,No,0,1
+9/1/2022,Volta,Maize,223.82,26.8,0.49,Yes,0,1
+9/1/2022,Greater Accra,Cocoa,139.21,24.3,0.51,No,1,1
+9/1/2022,Western,Maize,306.49,22.6,0.6,Yes,0,0
+9/1/2022,Western,Yam,325.51,24.6,0.7,No,1,1
+9/2/2022,Ashanti,Cocoa,281.84,26.5,0.64,Yes,0,1
+9/2/2022,Ashanti,Rice,287.03,23.9,0.54,Yes,1,1
+9/2/2022,Northern,Rice,136.31,26.4,0.45,No,0,1
+9/2/2022,Northern,Maize,184.79,28.4,0.34,Yes,0,1
+9/2/2022,Ashanti,Rice,229.31,22.5,0.6,Yes,1,1
+9/3/2022,Volta,Maize,206.15,26.2,0.38,No,1,1
+9/3/2022,Northern,Cassava,151.7,27.3,0.4,Yes,1,1
+9/3/2022,Volta,Rice,246.59,29.1,0.37,No,1,1
+9/3/2022,Ashanti,Cassava,240.66,22.8,0.5,Yes,0,1
+9/3/2022,Ashanti,Rice,239.09,23.7,0.67,Yes,1,1
+9/3/2022,Greater Accra,Rice,106.05,28.5,0.38,No,1,1
+9/4/2022,Volta,Yam,193.02,25.5,0.36,Yes,0,1
+9/4/2022,Ashanti,Maize,300.72,29,0.37,No,1,1
+9/4/2022,Greater Accra,Cassava,104.74,27.8,0.47,No,0,0
+9/4/2022,Ashanti,Cassava,249.72,25.2,0.56,Yes,1,1
+9/5/2022,Northern,Yam,199.86,30,0.31,Yes,0,1
+9/5/2022,Northern,Cassava,169.89,30.3,0.46,Yes,0,1
+9/5/2022,Volta,Yam,260.56,26.8,0.49,No,0,1
+9/5/2022,Ashanti,Rice,274.46,23.5,0.51,No,1,1
+9/6/2022,Ashanti,Cassava,227.17,24.6,0.7,Yes,0,1
+9/7/2022,Volta,Cassava,181.55,25.2,0.4,Yes,1,1
+9/7/2022,Ashanti,Rice,202.32,27,0.46,No,1,1
+9/7/2022,Western,Rice,211.5,26,0.5,Yes,1,1
+9/7/2022,Volta,Cassava,224.85,27.9,0.46,Yes,1,1
+9/7/2022,Ashanti,Rice,252.35,24.4,0.53,No,0,1
+9/8/2022,Western,Cocoa,331.66,22.4,0.36,Yes,1,1
+9/8/2022,Ashanti,Rice,283.39,29,0.52,Yes,0,1
+9/9/2022,Volta,Cocoa,259.53,21.5,0.46,Yes,1,0
+9/9/2022,Western,Rice,296.87,23.8,0.7,Yes,0,0
+9/9/2022,Northern,Yam,191.93,27.4,0.19,Yes,1,1
+9/9/2022,Northern,Yam,153.76,30.6,0.39,Yes,1,1
+9/9/2022,Greater Accra,Cassava,177.04,27,0.37,Yes,0,1
+9/10/2022,Ashanti,Yam,221.43,23.8,0.7,Yes,1,1
+9/10/2022,Greater Accra,Maize,126.34,24.9,0.45,Yes,0,0
+9/10/2022,Northern,Cocoa,166.13,26.7,0.15,No,1,1
+9/10/2022,Western,Cocoa,214.55,21.6,0.7,Yes,1,1
+9/10/2022,Volta,Yam,144.98,22.7,0.48,No,1,1
+9/10/2022,Greater Accra,Yam,123.38,29,0.43,Yes,0,1
+9/11/2022,Western,Rice,382.69,24.3,0.52,Yes,0,1
+9/11/2022,Volta,Yam,168.05,26.2,0.64,No,0,1
+9/11/2022,Greater Accra,Maize,90.73,28.9,0.4,Yes,1,1
+9/12/2022,Western,Maize,280.91,24.1,0.52,Yes,0,0
+9/12/2022,Greater Accra,Maize,117.6,28.2,0.31,Yes,1,1
+9/12/2022,Ashanti,Cassava,207.27,25.2,0.67,Yes,0,1
+9/12/2022,Volta,Cassava,185.3,22.1,0.51,Yes,1,1
+9/13/2022,Ashanti,Maize,178.58,23.6,0.63,Yes,0,1
+9/13/2022,Ashanti,Cassava,303.93,21.4,0.58,Yes,0,0
+9/13/2022,Greater Accra,Cassava,89.04,26,0.32,Yes,0,1
+9/14/2022,Greater Accra,Cocoa,127.8,27.1,0.26,Yes,1,1
+9/15/2022,Volta,Yam,168.67,24.7,0.35,No,1,1
+9/15/2022,Northern,Cassava,198.07,25.2,0.43,Yes,1,1
+9/15/2022,Volta,Cassava,180.83,25,0.5,Yes,0,1
+9/15/2022,Volta,Cassava,195.35,27.5,0.67,Yes,0,1
+9/16/2022,Western,Rice,285.22,24.4,0.55,Yes,1,1
+9/16/2022,Northern,Yam,197.62,26.1,0.12,Yes,1,0
+9/16/2022,Northern,Cocoa,155.77,28,0.12,Yes,1,1
+9/17/2022,Greater Accra,Yam,117.76,26.5,0.32,Yes,0,0
+9/17/2022,Greater Accra,Cassava,106.82,26.6,0.47,No,1,1
+9/18/2022,Ashanti,Yam,245.35,23.4,0.59,Yes,0,0
+9/18/2022,Ashanti,Yam,219.31,27.1,0.5,Yes,0,1
+9/18/2022,Ashanti,Cocoa,343.09,26.5,0.47,Yes,0,1
+9/18/2022,Western,Maize,418.98,26.3,0.58,No,0,1
+9/20/2022,Volta,Cocoa,271.07,25.7,0.6,No,0,1
+9/21/2022,Greater Accra,Maize,105.24,30.3,0.38,Yes,1,1
+9/21/2022,Western,Rice,206,25.8,0.7,No,0,1
+9/21/2022,Northern,Maize,143.55,32.5,0.38,Yes,0,0
+9/21/2022,Western,Rice,235.17,28.4,0.68,Yes,1,1
+9/22/2022,Western,Maize,161.04,25,0.62,Yes,1,1
+9/22/2022,Northern,Cassava,201.13,24.1,0.34,Yes,1,1
+9/23/2022,Western,Cocoa,335.79,26.3,0.63,Yes,1,0
+9/24/2022,Volta,Cassava,194.71,26.8,0.36,Yes,1,0
+9/24/2022,Ashanti,Cassava,243.5,22.6,0.39,Yes,0,1
+9/24/2022,Greater Accra,Cassava,67.8,25.9,0.43,Yes,0,0
+9/25/2022,Northern,Rice,175.87,32.7,0.3,No,0,0
+9/25/2022,Ashanti,Rice,214.94,25.1,0.46,Yes,1,1
+9/25/2022,Northern,Rice,192.4,28.2,0.32,Yes,0,0
+9/26/2022,Ashanti,Cocoa,227.04,26.7,0.56,Yes,1,1
+9/27/2022,Western,Maize,230.72,24.5,0.7,Yes,0,1
+9/28/2022,Western,Yam,277.48,28.1,0.7,Yes,1,1
+9/28/2022,Ashanti,Rice,267.13,24.3,0.46,No,1,1
+9/28/2022,Volta,Cocoa,203.43,26.3,0.41,No,1,1
+9/29/2022,Volta,Cocoa,176.42,25,0.51,Yes,0,0
+9/29/2022,Volta,Maize,252.98,24.3,0.43,Yes,0,1
+9/30/2022,Volta,Yam,208.87,25.8,0.53,No,1,0
+9/30/2022,Ashanti,Rice,240.94,29.1,0.61,No,1,1
+10/1/2022,Greater Accra,Cocoa,117.89,25.7,0.51,Yes,1,1
+10/2/2022,Western,Cocoa,233.91,26.6,0.5,No,0,1
+10/4/2022,Greater Accra,Cassava,147.07,26.9,0.34,No,0,0
+10/4/2022,Greater Accra,Cassava,95,24.3,0.48,No,0,1
+10/4/2022,Western,Maize,232.86,25.3,0.7,Yes,0,0
+10/5/2022,Northern,Rice,184.96,26,0.19,Yes,0,1
+10/6/2022,Northern,Cocoa,125.29,23.8,0.41,Yes,0,1
+10/6/2022,Western,Yam,308.26,25.8,0.7,Yes,1,1
+10/6/2022,Ashanti,Maize,210.49,23.9,0.67,No,1,1
+10/7/2022,Western,Maize,287.53,25.5,0.7,Yes,1,1
+10/7/2022,Northern,Cassava,137.72,28.1,0.1,Yes,0,0
+10/7/2022,Northern,Cocoa,202.37,25.9,0.42,No,0,0
+10/7/2022,Greater Accra,Cassava,115.62,29.7,0.37,Yes,1,1
+10/7/2022,Volta,Yam,156.17,24.4,0.49,No,0,1
+10/8/2022,Greater Accra,Cocoa,88.64,28.4,0.31,Yes,0,1
+10/8/2022,Ashanti,Cassava,233.23,27,0.54,Yes,1,1
+10/8/2022,Greater Accra,Cocoa,114.22,29.8,0.24,Yes,0,1
+10/9/2022,Volta,Cocoa,231.35,25.5,0.53,Yes,0,1
+10/9/2022,Volta,Cocoa,167.63,24.5,0.52,Yes,0,1
+10/9/2022,Ashanti,Cocoa,259.7,23.1,0.47,No,1,1
+10/10/2022,Ashanti,Rice,265.78,28.8,0.7,Yes,1,1
+10/10/2022,Volta,Maize,190.73,25.4,0.61,Yes,0,1
+10/11/2022,Ashanti,Yam,277.99,28.7,0.65,No,1,0
+10/11/2022,Greater Accra,Maize,123.49,25.1,0.39,Yes,1,1
+10/11/2022,Western,Cocoa,205.72,29.4,0.62,Yes,0,1
+10/11/2022,Greater Accra,Rice,87.54,25.7,0.34,No,0,1
+10/12/2022,Greater Accra,Maize,107.87,24.4,0.37,Yes,0,0
+10/12/2022,Greater Accra,Cassava,108.69,28,0.27,Yes,0,0
+10/12/2022,Greater Accra,Cocoa,154.4,30.3,0.38,Yes,1,1
+10/12/2022,Greater Accra,Rice,149.41,22.2,0.43,No,1,1
+10/13/2022,Northern,Maize,142.59,29.1,0.32,No,0,1
+10/14/2022,Northern,Rice,177.28,30,0.4,No,0,1
+10/14/2022,Ashanti,Maize,214.24,25.1,0.54,Yes,0,1
+10/15/2022,Greater Accra,Maize,135.68,25.3,0.35,Yes,0,1
+10/15/2022,Northern,Yam,236.47,23.3,0.24,Yes,1,1
+10/15/2022,Western,Rice,223.3,23,0.51,Yes,0,1
+10/16/2022,Ashanti,Maize,252.89,21.2,0.64,No,0,1
+10/17/2022,Greater Accra,Cassava,110.35,22.9,0.28,Yes,0,0
+10/17/2022,Volta,Cassava,221.33,25.5,0.54,No,0,1
+10/17/2022,Western,Cocoa,264.29,24.5,0.64,Yes,0,1
+10/18/2022,Greater Accra,Cocoa,110.26,27.6,0.41,Yes,0,1
+10/18/2022,Western,Maize,273.78,23.4,0.7,Yes,1,1
+10/18/2022,Northern,Rice,193.6,23.1,0.21,Yes,0,0
+10/18/2022,Northern,Maize,164.39,35,0.37,Yes,1,0
+10/18/2022,Northern,Maize,188.33,29.6,0.31,Yes,0,0
+10/19/2022,Volta,Cassava,218.02,27.6,0.45,Yes,0,1
+10/19/2022,Northern,Rice,185.31,29.4,0.32,No,0,1
+10/19/2022,Volta,Rice,162.25,25.3,0.57,Yes,1,1
+10/19/2022,Volta,Cocoa,191.69,30,0.56,Yes,0,1
+10/20/2022,Ashanti,Maize,236.8,25.5,0.59,Yes,0,0
+10/21/2022,Volta,Yam,205.27,26.4,0.51,No,0,1
+10/21/2022,Greater Accra,Cassava,146.16,25.8,0.37,Yes,1,0
+10/22/2022,Greater Accra,Cocoa,123.54,25.8,0.32,No,1,1
+10/22/2022,Volta,Cocoa,182.06,26.3,0.42,Yes,1,1
+10/23/2022,Northern,Yam,193.15,29.2,0.34,Yes,0,1
+10/23/2022,Volta,Maize,246.11,24,0.46,Yes,0,1
+10/23/2022,Northern,Maize,167.17,32,0.52,Yes,1,1
+10/23/2022,Northern,Cassava,129.52,27.5,0.39,Yes,1,1
+10/24/2022,Western,Cocoa,305.38,31.4,0.69,Yes,1,1
+10/24/2022,Greater Accra,Cocoa,161.94,28.8,0.45,No,0,1
+10/25/2022,Volta,Rice,188.68,23.1,0.46,Yes,0,1
+10/26/2022,Greater Accra,Yam,72.66,27.1,0.3,Yes,0,0
+10/27/2022,Northern,Cassava,164.79,34.1,0.18,Yes,0,1
+10/27/2022,Greater Accra,Maize,88.67,29.3,0.49,Yes,1,1
+10/27/2022,Western,Cocoa,352.95,27,0.65,Yes,0,1
+10/27/2022,Volta,Yam,234.9,25.2,0.69,Yes,1,1
+10/27/2022,Greater Accra,Maize,119.62,26.1,0.49,Yes,1,1
+10/27/2022,Greater Accra,Cocoa,96.95,25.2,0.52,Yes,0,1
+10/27/2022,Western,Cocoa,268.96,25,0.57,Yes,0,1
+10/28/2022,Western,Cocoa,179.43,27.1,0.7,No,1,1
+10/29/2022,Volta,Cassava,224.69,24.9,0.36,No,1,1
+10/29/2022,Volta,Maize,261.53,26.2,0.4,Yes,1,1
+10/30/2022,Western,Maize,278.19,23.8,0.7,Yes,1,1
+10/30/2022,Northern,Yam,220.95,30.3,0.28,Yes,0,0
+10/31/2022,Northern,Cocoa,158.37,28.5,0.43,Yes,0,1
+10/31/2022,Northern,Cocoa,178.18,23.1,0.39,No,1,1
+11/2/2022,Northern,Yam,27.69,33.9,0.22,Yes,0,1
+11/2/2022,Northern,Yam,37.17,28.8,0.31,No,1,1
+11/2/2022,Northern,Yam,33.77,37.6,0.35,Yes,0,0
+11/3/2022,Western,Rice,46.53,27.4,0.63,Yes,0,1
+11/3/2022,Volta,Rice,46.3,28.9,0.23,No,1,1
+11/4/2022,Northern,Rice,34.68,28.1,0.35,Yes,1,0
+11/4/2022,Western,Maize,61.5,29.1,0.6,Yes,0,1
+11/4/2022,Ashanti,Maize,63.32,26.4,0.29,Yes,0,0
+11/4/2022,Greater Accra,Cassava,23.61,27.8,0.48,Yes,1,1
+11/5/2022,Volta,Maize,47.51,25.8,0.43,No,0,1
+11/5/2022,Greater Accra,Cassava,19.53,27.7,0.32,Yes,0,0
+11/6/2022,Volta,Rice,43.48,27.8,0.45,No,1,1
+11/7/2022,Northern,Rice,30.64,27.7,0.28,No,0,0
+11/7/2022,Volta,Cocoa,35.42,28,0.45,Yes,1,1
+11/8/2022,Greater Accra,Maize,27.68,30.9,0.19,Yes,0,1
+11/8/2022,Ashanti,Maize,36.42,32.5,0.56,Yes,0,1
+11/8/2022,Northern,Cassava,38.91,34.6,0.23,Yes,0,1
+11/9/2022,Volta,Rice,39.94,29.4,0.4,No,0,1
+11/9/2022,Ashanti,Cassava,46.75,27.5,0.38,Yes,0,1
+11/10/2022,Western,Yam,49.14,25.8,0.41,Yes,0,1
+11/10/2022,Ashanti,Maize,45.22,27.1,0.48,No,1,1
+11/11/2022,Ashanti,Yam,68.34,30.3,0.45,Yes,0,1
+11/11/2022,Western,Maize,50.3,27.5,0.7,No,0,0
+11/12/2022,Western,Cocoa,36.35,28.6,0.46,Yes,0,1
+11/12/2022,Greater Accra,Yam,19.95,30.3,0.33,Yes,0,0
+11/12/2022,Western,Cocoa,47.19,26.3,0.65,No,1,1
+11/13/2022,Northern,Yam,45.34,32.4,0.22,No,0,1
+11/13/2022,Greater Accra,Cassava,24.39,30.4,0.17,No,0,0
+11/13/2022,Northern,Rice,36.59,31.5,0.1,Yes,0,0
+11/13/2022,Volta,Maize,52.46,31.7,0.32,Yes,0,0
+11/14/2022,Western,Maize,58.33,33.8,0.55,Yes,1,1
+11/14/2022,Greater Accra,Yam,21.37,30.9,0.36,Yes,1,1
+11/14/2022,Ashanti,Cocoa,48.64,25.6,0.43,Yes,1,1
+11/14/2022,Ashanti,Cassava,44.2,29.3,0.64,No,0,1
+11/15/2022,Volta,Cocoa,46.2,26.6,0.38,Yes,1,1
+11/15/2022,Ashanti,Rice,45.56,28.4,0.51,Yes,0,1
+11/16/2022,Greater Accra,Yam,22.33,27.8,0.27,No,0,0
+11/16/2022,Ashanti,Yam,42.53,26.6,0.47,Yes,1,0
+11/16/2022,Northern,Rice,33.52,29.3,0.2,No,1,0
+11/17/2022,Greater Accra,Rice,27.76,29.8,0.15,No,0,0
+11/17/2022,Volta,Rice,45.55,28.8,0.4,Yes,0,0
+11/17/2022,Greater Accra,Maize,18.68,29.9,0.18,Yes,0,1
+11/18/2022,Northern,Yam,33.42,32.1,0.26,Yes,0,0
+11/19/2022,Ashanti,Cocoa,53.53,25.4,0.38,No,0,1
+11/19/2022,Ashanti,Maize,49.53,23.3,0.39,No,1,1
+11/19/2022,Greater Accra,Yam,18.69,30.2,0.29,Yes,1,1
+11/20/2022,Northern,Cocoa,38.31,34.1,0.25,Yes,0,0
+11/20/2022,Volta,Maize,43.45,28.3,0.15,Yes,0,0
+11/20/2022,Greater Accra,Maize,27.22,32.4,0.27,Yes,0,0
+11/20/2022,Western,Maize,53.86,28.1,0.67,Yes,0,1
+11/20/2022,Greater Accra,Maize,29.12,29.7,0.1,No,0,1
+11/20/2022,Western,Cocoa,37.41,27.1,0.25,Yes,0,1
+11/21/2022,Ashanti,Yam,65.57,28.3,0.5,Yes,1,1
+11/21/2022,Greater Accra,Cocoa,30.43,29.9,0.28,Yes,0,1
+11/21/2022,Volta,Yam,48,28.1,0.58,Yes,0,1
+11/21/2022,Greater Accra,Rice,22.6,30.4,0.4,Yes,0,1
+11/21/2022,Volta,Maize,35.18,27,0.25,Yes,0,1
+11/21/2022,Volta,Cassava,50.19,28.3,0.23,No,1,1
+11/22/2022,Western,Rice,57.22,27,0.35,No,0,1
+11/22/2022,Northern,Cassava,36.05,29.3,0.19,Yes,0,1
+11/22/2022,Western,Cassava,43.5,28.8,0.59,Yes,1,0
+11/22/2022,Volta,Rice,39.87,26.6,0.36,No,0,1
+11/23/2022,Northern,Cassava,32.51,27.1,0.27,Yes,0,0
+11/23/2022,Ashanti,Cassava,49.92,32.2,0.37,Yes,0,1
+11/24/2022,Ashanti,Cocoa,65.15,30.1,0.54,No,0,1
+11/24/2022,Volta,Rice,36.78,31.9,0.47,No,0,1
+11/24/2022,Volta,Yam,26.61,29.3,0.34,Yes,0,0
+11/24/2022,Northern,Rice,27.02,32.4,0.31,Yes,1,1
+11/25/2022,Western,Yam,62.43,28.3,0.65,No,0,1
+11/25/2022,Greater Accra,Yam,20.8,28.4,0.24,Yes,0,0
+11/25/2022,Ashanti,Maize,49.83,35.2,0.57,Yes,0,1
+11/25/2022,Ashanti,Maize,41.5,24.6,0.48,Yes,1,1
+11/25/2022,Northern,Cocoa,33.28,26.9,0.38,Yes,0,0
+11/26/2022,Western,Cocoa,47.66,31.1,0.63,Yes,0,1
+11/26/2022,Western,Cassava,64.36,25.2,0.32,Yes,1,0
+11/26/2022,Western,Rice,54.69,33.9,0.45,Yes,0,1
+11/26/2022,Western,Yam,45.65,28.1,0.29,Yes,0,0
+11/27/2022,Western,Cocoa,45.47,32.2,0.53,No,1,1
+11/27/2022,Greater Accra,Yam,12.39,29.2,0.36,Yes,1,1
+11/27/2022,Northern,Yam,33.37,28,0.34,Yes,0,1
+11/28/2022,Ashanti,Cassava,64.29,22.9,0.4,No,0,0
+11/28/2022,Greater Accra,Maize,23.14,30.9,0.37,No,0,0
+11/28/2022,Volta,Maize,29.1,29.2,0.45,No,1,1
+11/28/2022,Western,Cocoa,45.94,25.8,0.4,No,0,1
+11/28/2022,Western,Cocoa,75.48,28,0.35,No,1,1
+11/28/2022,Western,Rice,34.99,28.1,0.37,Yes,1,1
+11/29/2022,Ashanti,Rice,35.81,30,0.6,No,1,1
+11/29/2022,Western,Cassava,59.25,28,0.48,No,0,1
+11/30/2022,Ashanti,Cassava,51.53,28.2,0.25,No,1,1
+11/30/2022,Volta,Cocoa,42.41,26.7,0.29,Yes,0,0
+11/30/2022,Western,Cassava,52.61,27.2,0.42,No,0,1
+12/1/2022,Western,Rice,60.8,26.2,0.49,Yes,0,1
+12/1/2022,Western,Rice,56.15,30.2,0.55,No,0,1
+12/1/2022,Volta,Cassava,32.85,32.6,0.39,Yes,0,1
+12/2/2022,Ashanti,Cocoa,63.05,25.1,0.46,No,0,0
+12/2/2022,Volta,Cassava,40.47,28.1,0.32,Yes,0,0
+12/2/2022,Western,Rice,43.19,28.1,0.54,No,0,1
+12/2/2022,Ashanti,Rice,54.74,27.3,0.48,Yes,0,1
+12/2/2022,Northern,Cocoa,31.83,28.9,0.29,No,0,1
+12/3/2022,Volta,Cocoa,38.99,27.4,0.4,No,0,1
+12/3/2022,Greater Accra,Rice,23.87,31.4,0.38,No,0,1
+12/3/2022,Greater Accra,Cassava,23.48,29.9,0.47,Yes,0,1
+12/3/2022,Volta,Yam,38.13,27.7,0.32,Yes,1,1
+12/4/2022,Northern,Maize,27.35,36.6,0.4,Yes,0,0
+12/4/2022,Greater Accra,Yam,19.13,28.1,0.2,Yes,1,1
+12/4/2022,Volta,Rice,32.76,26.6,0.33,Yes,0,0
+12/5/2022,Volta,Yam,32.56,27.8,0.53,Yes,1,1
+12/5/2022,Ashanti,Yam,72.18,22.9,0.44,No,0,0
+12/5/2022,Ashanti,Rice,47.44,26.2,0.55,No,1,1
+12/5/2022,Volta,Yam,40.02,28.8,0.29,Yes,0,1
+12/5/2022,Volta,Maize,36.99,28,0.29,Yes,0,0
+12/5/2022,Greater Accra,Cocoa,14.61,28.8,0.23,Yes,0,0
+12/5/2022,Volta,Cocoa,40.36,26.5,0.32,Yes,0,1
+12/6/2022,Volta,Cocoa,54.86,28.5,0.43,Yes,0,1
+12/6/2022,Northern,Cocoa,30.69,33.8,0.23,Yes,0,0
+12/6/2022,Greater Accra,Yam,27.16,30.8,0.38,Yes,0,1
+12/6/2022,Volta,Rice,48.43,30.5,0.49,No,0,1
+12/6/2022,Greater Accra,Yam,24.98,30.9,0.2,Yes,0,1
+12/7/2022,Western,Maize,67.95,26.7,0.35,Yes,0,0
+12/7/2022,Greater Accra,Maize,27.56,29.8,0.44,Yes,1,1
+12/7/2022,Western,Cocoa,42.67,29.5,0.67,Yes,1,1
+12/7/2022,Ashanti,Cocoa,46.64,29,0.6,No,0,1
+12/7/2022,Greater Accra,Yam,23.92,34.8,0.34,No,1,1
+12/8/2022,Northern,Cocoa,40.65,28.1,0.36,Yes,1,1
+12/8/2022,Volta,Cocoa,44.23,29.8,0.53,Yes,1,1
+12/8/2022,Ashanti,Cassava,53.34,27.8,0.35,Yes,1,1
+12/8/2022,Ashanti,Cocoa,57.45,28.6,0.36,Yes,0,1
+12/8/2022,Volta,Cassava,44.5,26.7,0.34,Yes,0,1
+12/8/2022,Western,Yam,65,25.8,0.5,Yes,1,1
+12/9/2022,Ashanti,Cocoa,64.44,24.8,0.62,No,1,1
+12/9/2022,Western,Cassava,35.97,28.7,0.67,Yes,1,0
+12/9/2022,Western,Yam,55.3,30.5,0.51,Yes,0,1
+12/10/2022,Greater Accra,Rice,23.22,29.6,0.21,Yes,1,0
+12/10/2022,Northern,Cassava,26.64,31.9,0.22,No,1,0
+12/10/2022,Western,Yam,55.76,28.4,0.46,Yes,0,1
+12/11/2022,Western,Cassava,57.28,26.9,0.61,Yes,1,0
+12/11/2022,Volta,Yam,38.38,27.9,0.59,Yes,0,1
+12/11/2022,Northern,Cassava,36.46,34.2,0.29,Yes,0,0
+12/11/2022,Ashanti,Cassava,36.4,25.9,0.56,Yes,0,1
+12/11/2022,Northern,Maize,21.55,25.8,0.36,Yes,1,0
+12/11/2022,Northern,Cocoa,36.23,27.6,0.34,Yes,0,0
+12/12/2022,Western,Cassava,38.9,26.5,0.53,No,0,0
+12/12/2022,Ashanti,Rice,50.4,26.4,0.42,Yes,0,1
+12/12/2022,Northern,Cassava,27.02,31.2,0.18,Yes,0,0
+12/14/2022,Western,Rice,58.45,28.4,0.61,Yes,0,1
+12/15/2022,Ashanti,Maize,66.24,30.8,0.67,Yes,0,1
+12/15/2022,Volta,Rice,44.2,27,0.48,Yes,0,0
+12/15/2022,Volta,Maize,55.27,29.2,0.46,Yes,0,1
+12/16/2022,Ashanti,Cassava,53.6,29.7,0.52,Yes,0,1
+12/16/2022,Greater Accra,Yam,27.24,31.6,0.15,Yes,0,0
+12/17/2022,Northern,Cassava,43.08,33.2,0.35,Yes,0,1
+12/17/2022,Western,Rice,61.11,28.9,0.52,No,0,0
+12/18/2022,Western,Yam,58.61,28.2,0.53,Yes,0,1
+12/18/2022,Ashanti,Cassava,37.16,27.7,0.54,Yes,0,0
+12/18/2022,Northern,Yam,26.72,30.4,0.49,No,0,0
+12/18/2022,Volta,Yam,38.97,28.1,0.47,Yes,0,0
+12/18/2022,Ashanti,Maize,54.96,26.7,0.52,Yes,0,0
+12/18/2022,Western,Cocoa,52.53,29.8,0.33,Yes,1,1
+12/18/2022,Western,Rice,51.82,27.3,0.45,Yes,1,1
+12/18/2022,Ashanti,Rice,42.13,30.3,0.57,Yes,0,1
+12/19/2022,Northern,Cocoa,38.77,29.3,0.42,No,1,0
+12/19/2022,Ashanti,Cocoa,53.38,26.6,0.43,Yes,1,0
+12/19/2022,Northern,Yam,42.63,33.4,0.37,No,0,0
+12/21/2022,Ashanti,Rice,40.22,27.5,0.48,Yes,1,1
+12/21/2022,Northern,Cocoa,48.53,31.3,0.33,Yes,0,1
+12/22/2022,Greater Accra,Cocoa,26.5,28.2,0.35,Yes,0,0
+12/22/2022,Northern,Cassava,24.01,32.9,0.19,Yes,1,1
+12/23/2022,Ashanti,Cassava,55.94,26.7,0.37,No,0,0
+12/23/2022,Ashanti,Maize,45.78,26,0.44,Yes,1,1
+12/23/2022,Greater Accra,Maize,26.27,30.2,0.28,Yes,0,0
+12/23/2022,Ashanti,Yam,39.78,26.7,0.51,Yes,0,1
+12/24/2022,Greater Accra,Cocoa,21.28,33.7,0.36,Yes,0,1
+12/24/2022,Ashanti,Yam,46.19,29.2,0.35,No,0,0
+12/25/2022,Greater Accra,Maize,17.48,29.4,0.22,Yes,0,0
+12/25/2022,Greater Accra,Maize,18.42,32.1,0.28,Yes,1,1
+12/25/2022,Greater Accra,Maize,26.68,31.2,0.41,Yes,0,1
+12/26/2022,Greater Accra,Maize,23.66,29.3,0.38,Yes,1,1
+12/26/2022,Ashanti,Rice,32.48,27.3,0.3,No,0,0
+12/26/2022,Volta,Yam,49.13,31.2,0.44,Yes,1,1
+12/26/2022,Volta,Yam,41.83,29.9,0.41,Yes,0,0
+12/27/2022,Volta,Cassava,42.54,30.3,0.21,Yes,0,1
+12/27/2022,Ashanti,Cocoa,65.72,28,0.41,No,1,1
+12/27/2022,Northern,Maize,30.09,25.9,0.19,Yes,0,0
+12/27/2022,Volta,Cocoa,28.54,26.9,0.33,Yes,0,0
+12/27/2022,Western,Rice,68.16,33.3,0.55,Yes,0,1
+12/27/2022,Greater Accra,Yam,26.57,31.2,0.4,Yes,1,1
+12/27/2022,Ashanti,Cocoa,44.68,29.1,0.41,Yes,0,1
+12/27/2022,Ashanti,Rice,52.77,24.8,0.32,No,1,1
+12/27/2022,Ashanti,Cocoa,49.71,30.6,0.42,Yes,0,1
+12/28/2022,Northern,Cocoa,36.6,29.1,0.19,Yes,0,0
+12/28/2022,Western,Rice,62.08,31.2,0.46,No,1,1
+12/28/2022,Greater Accra,Cassava,22.63,27.8,0.21,No,0,0
+12/29/2022,Ashanti,Yam,49.48,26.4,0.57,No,0,1
+12/29/2022,Volta,Rice,37.67,30.4,0.36,Yes,0,1
+12/29/2022,Ashanti,Cocoa,52.79,28.7,0.51,No,0,1
+12/29/2022,Ashanti,Cassava,49.37,30.3,0.61,Yes,0,1
+12/30/2022,Ashanti,Yam,47.52,27.3,0.43,No,0,1
+12/30/2022,Western,Cocoa,51.79,30.6,0.61,Yes,1,1
+12/30/2022,Northern,Maize,41.03,32.8,0.36,Yes,0,1
+12/30/2022,Western,Cocoa,67.55,29.3,0.47,Yes,0,1
+12/31/2022,Northern,Rice,29.2,26.8,0.27,Yes,0,0
+12/31/2022,Northern,Yam,34.73,31,0.14,No,0,0
+1/1/2023,Western,Cassava,71.32,28.6,0.35,Yes,0,1
+1/1/2023,Western,Maize,45.46,29.2,0.61,No,0,1
+1/1/2023,Northern,Rice,31.34,31.8,0.12,No,0,0
+1/2/2023,Ashanti,Yam,41.97,26.7,0.38,Yes,0,1
+1/2/2023,Ashanti,Cassava,52.99,25.1,0.43,Yes,1,0
+1/2/2023,Western,Cocoa,46.83,25.5,0.29,Yes,0,1
+1/3/2023,Greater Accra,Cocoa,24.65,26.3,0.39,No,1,1
+1/3/2023,Volta,Cassava,32.26,31.7,0.42,Yes,0,1
+1/3/2023,Western,Cassava,59.56,25.8,0.61,No,0,1
+1/3/2023,Volta,Maize,41.88,28.6,0.29,Yes,0,1
+1/3/2023,Ashanti,Maize,52.71,28.2,0.42,Yes,1,1
+1/3/2023,Western,Yam,74.31,30.7,0.39,No,0,1
+1/4/2023,Northern,Maize,36.27,31.2,0.41,Yes,0,0
+1/4/2023,Ashanti,Yam,40.82,25.6,0.48,Yes,0,1
+1/4/2023,Greater Accra,Rice,20.74,30.3,0.18,Yes,0,0
+1/5/2023,Northern,Cocoa,23.18,30,0.32,Yes,1,0
+1/6/2023,Greater Accra,Rice,27.3,30.1,0.34,Yes,1,1
+1/6/2023,Greater Accra,Maize,25.51,32.1,0.3,Yes,0,1
+1/6/2023,Volta,Cocoa,44.4,31.3,0.46,Yes,1,1
+1/6/2023,Volta,Maize,39.93,32,0.39,No,1,1
+1/7/2023,Greater Accra,Maize,22.26,30.3,0.31,Yes,1,0
+1/7/2023,Ashanti,Rice,64.5,26.1,0.41,No,1,1
+1/8/2023,Ashanti,Rice,47.27,25.1,0.18,Yes,1,0
+1/9/2023,Ashanti,Rice,50.25,28.1,0.43,Yes,0,1
+1/9/2023,Northern,Maize,29.14,28.4,0.2,Yes,1,1
+1/9/2023,Northern,Yam,24.46,29.5,0.34,Yes,0,1
+1/9/2023,Volta,Maize,33.15,29.9,0.37,Yes,0,1
+1/9/2023,Northern,Rice,36.53,27.4,0.33,Yes,0,1
+1/10/2023,Western,Cassava,52.38,29.6,0.26,No,0,1
+1/10/2023,Northern,Rice,34.88,28,0.27,Yes,0,0
+1/10/2023,Volta,Maize,35.59,26.7,0.49,No,0,0
+1/11/2023,Ashanti,Cassava,48.86,25.2,0.33,No,0,0
+1/11/2023,Ashanti,Rice,63.56,28.6,0.53,Yes,1,1
+1/11/2023,Ashanti,Yam,42.47,29.1,0.43,No,1,1
+1/11/2023,Greater Accra,Maize,19.24,30.2,0.33,Yes,0,1
+1/11/2023,Volta,Maize,44.1,30.2,0.32,No,0,1
+1/11/2023,Western,Cassava,65.64,31.3,0.59,No,0,0
+1/12/2023,Western,Yam,55.34,26.8,0.7,No,1,1
+1/12/2023,Volta,Yam,44.6,30.2,0.41,Yes,0,0
+1/12/2023,Ashanti,Yam,61.04,27.3,0.34,Yes,0,1
+1/12/2023,Volta,Cocoa,31.93,29.8,0.44,Yes,0,1
+1/12/2023,Greater Accra,Cocoa,25.98,35.4,0.24,No,1,1
+1/13/2023,Ashanti,Rice,52.45,27.5,0.4,Yes,1,1
+1/13/2023,Greater Accra,Cassava,22.77,29.3,0.32,Yes,0,0
+1/13/2023,Western,Maize,57.64,25.3,0.48,Yes,0,0
+1/16/2023,Western,Rice,59.74,28.5,0.54,Yes,0,1
+1/16/2023,Greater Accra,Yam,31.73,27.8,0.28,Yes,0,1
+1/17/2023,Northern,Cassava,36.09,25.2,0.41,No,0,0
+1/17/2023,Ashanti,Rice,50.14,29.6,0.31,No,0,0
+1/18/2023,Western,Maize,38.85,30.3,0.47,No,0,1
+1/19/2023,Volta,Yam,46.7,28.3,0.35,Yes,0,1
+1/19/2023,Ashanti,Maize,50.3,25.4,0.41,No,0,0
+1/19/2023,Ashanti,Yam,39.07,30.6,0.52,No,1,1
+1/20/2023,Volta,Cassava,35.13,32.6,0.36,Yes,1,1
+1/20/2023,Volta,Rice,37.85,29.1,0.44,No,0,1
+1/20/2023,Ashanti,Yam,30.83,27.6,0.44,No,1,1
+1/20/2023,Ashanti,Maize,57.14,30,0.39,No,1,0
+1/20/2023,Western,Cassava,47.44,29.9,0.57,Yes,0,1
+1/20/2023,Greater Accra,Cocoa,21.96,31.5,0.25,Yes,0,1
+1/21/2023,Greater Accra,Cassava,17.15,33.3,0.26,Yes,1,1
+1/21/2023,Greater Accra,Rice,29.78,30.2,0.27,Yes,1,0
+1/21/2023,Greater Accra,Cocoa,27.78,29.5,0.33,Yes,0,1
+1/22/2023,Western,Cocoa,35.89,29.1,0.48,Yes,0,1
+1/22/2023,Ashanti,Cocoa,56.16,27.4,0.36,No,0,0
+1/23/2023,Volta,Maize,55.24,28.9,0.28,Yes,1,1
+1/23/2023,Volta,Cocoa,32.76,25.9,0.47,Yes,0,1
+1/23/2023,Northern,Maize,28.26,29.1,0.23,Yes,1,1
+1/24/2023,Western,Rice,71.93,24.8,0.66,No,0,1
+1/24/2023,Volta,Yam,40.66,30.8,0.3,Yes,1,1
+1/24/2023,Volta,Rice,45.62,29.8,0.39,Yes,0,1
+1/24/2023,Ashanti,Cassava,55.38,28.1,0.43,Yes,0,1
+1/25/2023,Ashanti,Yam,52.69,30.4,0.48,Yes,0,1
+1/25/2023,Volta,Cassava,49.82,29.2,0.4,Yes,0,1
+1/26/2023,Volta,Rice,47.05,26,0.34,Yes,0,1
+1/26/2023,Northern,Yam,30.41,30.1,0.35,Yes,1,1
+1/26/2023,Northern,Rice,42.03,31.6,0.33,No,0,0
+1/26/2023,Greater Accra,Yam,29.45,32,0.46,No,0,0
+1/28/2023,Ashanti,Yam,52.05,30.5,0.52,Yes,1,1
+1/28/2023,Volta,Cassava,38.3,24.6,0.47,No,1,1
+1/28/2023,Northern,Yam,46.09,30.1,0.1,Yes,0,0
+1/29/2023,Greater Accra,Rice,26.64,31.1,0.24,Yes,1,0
+1/30/2023,Northern,Cocoa,43.85,24.7,0.26,No,0,0
+1/30/2023,Volta,Maize,37.86,31.6,0.33,No,0,1
+1/30/2023,Ashanti,Cassava,51.19,30.4,0.28,Yes,0,0
+1/30/2023,Greater Accra,Cassava,27.46,32.5,0.2,No,0,1
+1/31/2023,Ashanti,Maize,44.47,27.5,0.37,Yes,1,1
+1/31/2023,Greater Accra,Maize,28.64,31.1,0.26,Yes,1,0
+1/31/2023,Greater Accra,Maize,29.12,29.5,0.26,No,0,1
+1/31/2023,Greater Accra,Yam,26.59,30.8,0.4,No,0,1
+2/1/2023,Volta,Rice,41.12,26.5,0.5,No,0,1
+2/1/2023,Northern,Rice,32.9,27.2,0.1,Yes,1,1
+2/2/2023,Greater Accra,Cocoa,24.93,32.4,0.28,No,0,1
+2/2/2023,Northern,Cassava,35.67,32.6,0.1,No,0,0
+2/2/2023,Greater Accra,Yam,23.09,26.7,0.21,No,0,1
+2/2/2023,Greater Accra,Maize,31.96,27.3,0.31,Yes,0,1
+2/2/2023,Greater Accra,Rice,32.21,29.5,0.27,Yes,0,1
+2/2/2023,Greater Accra,Cassava,22.14,29.5,0.26,Yes,0,0
+2/3/2023,Greater Accra,Cassava,31.39,30.6,0.27,No,0,0
+2/3/2023,Volta,Cassava,43.05,30.1,0.34,Yes,0,1
+2/4/2023,Ashanti,Rice,62.76,28.9,0.53,Yes,0,1
+2/5/2023,Greater Accra,Yam,31.2,30.3,0.26,No,1,0
+2/5/2023,Northern,Rice,43.21,34.3,0.22,Yes,0,0
+2/5/2023,Greater Accra,Rice,26.1,30.2,0.26,Yes,0,0
+2/5/2023,Western,Rice,51.9,31.2,0.47,Yes,1,1
+2/6/2023,Western,Yam,60.64,29.2,0.45,No,0,1
+2/6/2023,Northern,Yam,27.88,30,0.2,Yes,0,0
+2/6/2023,Ashanti,Cocoa,62.43,26.5,0.66,No,1,1
+2/6/2023,Ashanti,Rice,53.42,30.8,0.35,Yes,0,1
+2/6/2023,Volta,Yam,37.76,30.8,0.42,Yes,0,0
+2/7/2023,Western,Maize,59.55,27.1,0.5,Yes,1,1
+2/7/2023,Northern,Cocoa,28.1,27.5,0.23,No,1,1
+2/7/2023,Volta,Cocoa,55.18,27.8,0.36,Yes,0,1
+2/8/2023,Ashanti,Rice,62.8,28.9,0.37,Yes,1,1
+2/8/2023,Ashanti,Rice,55.6,28,0.42,Yes,0,1
+2/9/2023,Northern,Maize,30.17,29.9,0.4,Yes,0,1
+2/9/2023,Volta,Maize,53.11,29.1,0.38,Yes,0,0
+2/10/2023,Greater Accra,Cocoa,34.26,28.9,0.39,Yes,1,1
+2/10/2023,Western,Rice,46.83,25.6,0.3,Yes,0,1
+2/10/2023,Northern,Maize,17.21,32.3,0.28,Yes,0,1
+2/10/2023,Volta,Maize,44.18,26,0.42,Yes,1,0
+2/11/2023,Volta,Cassava,33,29,0.33,Yes,1,1
+2/11/2023,Northern,Cocoa,21.65,29.4,0.17,Yes,1,0
+2/11/2023,Greater Accra,Rice,21.85,30.7,0.32,Yes,0,1
+2/11/2023,Northern,Cocoa,45.38,29.6,0.36,Yes,0,1
+2/11/2023,Greater Accra,Cassava,32.11,27.9,0.44,No,0,0
+2/12/2023,Greater Accra,Cocoa,26.28,34.4,0.28,Yes,1,1
+2/12/2023,Volta,Yam,42.7,27.4,0.42,No,0,1
+2/12/2023,Ashanti,Cassava,66.67,26.6,0.3,No,1,0
+2/12/2023,Greater Accra,Maize,23.21,25.5,0.34,No,0,0
+2/12/2023,Western,Cocoa,45.18,26.9,0.51,No,1,1
+2/12/2023,Greater Accra,Maize,23.7,30.7,0.33,Yes,0,1
+2/13/2023,Ashanti,Yam,56.87,31.2,0.52,Yes,0,1
+2/13/2023,Northern,Yam,35.45,28.4,0.26,Yes,0,0
+2/14/2023,Greater Accra,Maize,25.08,28.8,0.1,No,1,1
+2/14/2023,Volta,Maize,38.26,32.6,0.43,No,1,1
+2/15/2023,Western,Cassava,48.05,27.7,0.57,Yes,1,0
+2/15/2023,Volta,Maize,44.22,29.9,0.39,Yes,0,1
+2/15/2023,Volta,Maize,46.75,30.2,0.2,Yes,0,0
+2/15/2023,Ashanti,Maize,50.27,29.2,0.46,Yes,1,1
+2/16/2023,Ashanti,Maize,48.96,27.8,0.33,No,1,1
+2/16/2023,Ashanti,Maize,55.88,31.1,0.33,Yes,0,1
+2/17/2023,Northern,Yam,36.81,32.4,0.13,Yes,0,1
+2/17/2023,Ashanti,Yam,40.14,26.7,0.39,No,1,0
+2/17/2023,Northern,Rice,39.57,26.7,0.31,Yes,0,1
+2/17/2023,Northern,Cassava,29.57,27.3,0.29,No,0,0
+2/17/2023,Volta,Yam,44.53,27.7,0.42,Yes,1,1
+2/18/2023,Northern,Yam,31.46,36.4,0.39,No,1,1
+2/18/2023,Greater Accra,Cocoa,23.23,29.3,0.39,Yes,0,0
+2/18/2023,Ashanti,Rice,46.62,31.3,0.51,Yes,1,1
+2/18/2023,Volta,Maize,23.27,29.5,0.41,Yes,0,1
+2/18/2023,Ashanti,Rice,46.95,29.3,0.41,Yes,0,0
+2/18/2023,Western,Yam,39.94,26.5,0.44,No,0,1
+2/19/2023,Ashanti,Maize,48.6,28,0.39,No,0,1
+2/20/2023,Western,Cocoa,57.16,30.5,0.61,Yes,0,1
+2/20/2023,Greater Accra,Cassava,20.08,26.6,0.3,No,1,0
+2/20/2023,Volta,Maize,47.88,29,0.19,Yes,0,0
+2/20/2023,Ashanti,Yam,57.06,28.1,0.43,Yes,0,1
+2/21/2023,Greater Accra,Rice,24.71,32,0.39,No,0,1
+2/21/2023,Western,Cassava,47.11,28.5,0.42,Yes,0,1
+2/21/2023,Western,Cocoa,68.58,29,0.37,No,1,1
+2/22/2023,Northern,Yam,28.9,34.4,0.27,Yes,0,0
+2/22/2023,Ashanti,Rice,58.99,28.8,0.48,Yes,0,1
+2/22/2023,Greater Accra,Maize,23.86,30.2,0.24,Yes,0,0
+2/22/2023,Western,Cassava,65.05,25.4,0.22,No,0,0
+2/23/2023,Greater Accra,Cocoa,24.5,30,0.15,Yes,1,1
+2/23/2023,Greater Accra,Rice,18.85,31.2,0.27,Yes,0,1
+2/24/2023,Volta,Yam,43.91,27.7,0.53,No,0,1
+2/24/2023,Western,Cassava,42.67,28,0.47,Yes,0,1
+2/25/2023,Western,Maize,64.07,29.4,0.5,Yes,0,1
+2/25/2023,Northern,Yam,31.25,29.5,0.2,Yes,1,1
+2/25/2023,Volta,Maize,42.16,29.5,0.34,Yes,0,0
+2/25/2023,Volta,Cassava,51.05,25.4,0.5,Yes,1,1
+2/25/2023,Ashanti,Rice,52.52,26.3,0.53,No,0,1
+2/25/2023,Northern,Maize,28.09,34.3,0.39,Yes,0,1
+2/26/2023,Greater Accra,Maize,16.09,26.5,0.24,Yes,0,0
+2/26/2023,Greater Accra,Cassava,22.95,28.9,0.19,Yes,0,0
+2/26/2023,Ashanti,Rice,58.83,26.1,0.5,Yes,1,1
+2/27/2023,Ashanti,Cassava,44.59,29.7,0.53,No,0,1
+2/27/2023,Volta,Cocoa,37.45,27.9,0.48,Yes,0,0
+2/27/2023,Volta,Maize,49.45,25.8,0.57,No,0,1
+2/28/2023,Ashanti,Rice,57.59,31.3,0.43,Yes,0,1
+2/28/2023,Volta,Cassava,56.99,27.4,0.35,Yes,0,0
+3/1/2023,Western,Cocoa,44.36,28.8,0.36,Yes,1,1
+3/1/2023,Volta,Maize,43.82,28.9,0.4,No,1,1
+3/2/2023,Ashanti,Yam,52.89,26.8,0.44,Yes,1,0
+3/2/2023,Greater Accra,Maize,21.95,29.3,0.34,Yes,0,0
+3/2/2023,Western,Maize,69.6,25.9,0.42,No,0,1
+3/2/2023,Volta,Cassava,31.43,30.6,0.39,Yes,0,1
+3/2/2023,Volta,Cocoa,34.83,27.2,0.46,Yes,0,1
+3/3/2023,Ashanti,Maize,61.02,28.3,0.55,Yes,0,1
+3/3/2023,Western,Maize,44.93,29,0.65,Yes,0,1
+3/3/2023,Western,Cassava,69.07,27.9,0.52,Yes,0,0
+3/3/2023,Volta,Cocoa,35.98,30.2,0.53,No,0,1
+3/4/2023,Northern,Yam,38.84,32.5,0.35,Yes,0,1
+3/4/2023,Greater Accra,Rice,24.65,27.6,0.35,No,1,1
+3/4/2023,Ashanti,Yam,43.39,26.9,0.46,Yes,0,1
+3/4/2023,Northern,Yam,30.29,29.7,0.27,No,1,1
+3/5/2023,Ashanti,Cassava,50.31,28,0.59,Yes,0,1
+3/6/2023,Western,Maize,56.91,27.7,0.58,No,1,1
+3/6/2023,Northern,Cassava,32.73,32.9,0.26,Yes,1,0
+3/6/2023,Northern,Cassava,30.89,29.6,0.15,No,0,0
+3/8/2023,Greater Accra,Yam,18.57,30.8,0.3,Yes,0,0
+3/8/2023,Ashanti,Rice,32.89,25.6,0.43,No,1,1
+3/9/2023,Western,Maize,60.8,27.5,0.3,Yes,0,1
+3/9/2023,Greater Accra,Maize,27.54,33.3,0.28,No,1,0
+3/9/2023,Ashanti,Maize,67.46,27.8,0.33,Yes,0,0
+3/9/2023,Volta,Cassava,37.95,25.7,0.36,No,0,1
+3/10/2023,Northern,Rice,44.35,31.6,0.21,Yes,0,0
+3/10/2023,Volta,Maize,31.67,31.4,0.28,No,1,1
+3/10/2023,Western,Maize,59.77,28.2,0.59,No,1,1
+3/10/2023,Greater Accra,Cassava,24.92,29.4,0.45,No,0,0
+3/10/2023,Northern,Maize,37.56,35.5,0.17,Yes,0,0
+3/11/2023,Ashanti,Rice,42.39,27.8,0.41,Yes,0,1
+3/11/2023,Volta,Rice,45.95,31.8,0.44,Yes,0,0
+3/11/2023,Northern,Yam,35.81,34.6,0.42,No,0,0
+3/11/2023,Volta,Rice,33.21,27.2,0.37,Yes,0,1
+3/12/2023,Greater Accra,Cocoa,26,29.6,0.2,Yes,1,0
+3/12/2023,Greater Accra,Maize,22.98,26.6,0.3,No,0,1
+3/12/2023,Ashanti,Yam,70.92,28.4,0.46,No,1,1
+3/12/2023,Northern,Yam,26.95,24.6,0.18,No,0,0
+3/12/2023,Ashanti,Maize,43.81,24,0.41,Yes,1,1
+3/13/2023,Greater Accra,Yam,27.06,29.3,0.17,Yes,1,1
+3/13/2023,Ashanti,Maize,66.47,25.9,0.54,No,1,1
+3/14/2023,Northern,Rice,35.85,32.9,0.2,Yes,1,0
+3/14/2023,Volta,Yam,40.71,33.4,0.5,No,0,1
+3/14/2023,Greater Accra,Yam,24.34,31.9,0.3,Yes,0,0
+3/14/2023,Greater Accra,Cassava,23.57,31.9,0.3,Yes,0,0
+3/14/2023,Ashanti,Rice,53.5,30.1,0.48,Yes,1,1
+3/14/2023,Northern,Yam,40.19,34.5,0.24,Yes,0,0
+3/14/2023,Western,Yam,60.77,27.7,0.46,No,1,0
+3/15/2023,Northern,Cocoa,44.18,32.7,0.31,Yes,0,0
+3/15/2023,Northern,Maize,39.08,31.3,0.42,Yes,0,0
+3/16/2023,Greater Accra,Cassava,33.06,31.4,0.24,Yes,0,0
+3/16/2023,Ashanti,Cocoa,43.66,25.7,0.37,No,0,1
+3/16/2023,Volta,Rice,54.17,30.6,0.39,No,0,1
+3/17/2023,Greater Accra,Cocoa,18.72,33,0.3,No,0,0
+3/17/2023,Greater Accra,Maize,24.89,29.9,0.29,No,1,0
+3/17/2023,Greater Accra,Cocoa,29.27,26.5,0.41,Yes,1,1
+3/17/2023,Northern,Yam,42.73,30.5,0.19,Yes,0,0
+3/18/2023,Western,Cassava,64.27,30.5,0.58,Yes,1,1
+3/18/2023,Greater Accra,Cassava,20.91,31,0.37,Yes,1,0
+3/19/2023,Western,Cassava,63.66,30.1,0.42,Yes,1,0
+3/19/2023,Volta,Cassava,45.65,27.1,0.35,Yes,0,0
+3/20/2023,Volta,Rice,45.17,27.7,0.4,Yes,0,1
+3/21/2023,Western,Rice,25.18,30.5,0.55,Yes,1,1
+3/21/2023,Northern,Cassava,43.59,30,0.12,No,1,0
+3/21/2023,Volta,Rice,49.36,26.9,0.44,Yes,1,1
+3/21/2023,Western,Rice,56.94,24.2,0.52,Yes,0,0
+3/21/2023,Ashanti,Maize,49.27,27.6,0.52,Yes,0,1
+3/22/2023,Western,Yam,57.96,28.9,0.43,No,1,1
+3/22/2023,Western,Yam,62.28,28.9,0.41,Yes,0,1
+3/23/2023,Northern,Yam,31.48,28.9,0.14,No,0,0
+3/23/2023,Northern,Cocoa,28.53,25.7,0.1,Yes,0,0
+3/24/2023,Volta,Cocoa,43.91,28.5,0.34,No,0,1
+3/25/2023,Western,Yam,45.1,32.9,0.57,Yes,0,1
+3/25/2023,Greater Accra,Maize,33.33,33.4,0.19,Yes,1,1
+3/26/2023,Greater Accra,Maize,25.8,31.8,0.33,No,0,0
+3/26/2023,Northern,Cassava,28.76,25.7,0.1,No,1,0
+3/26/2023,Ashanti,Maize,54.84,27.9,0.42,Yes,1,1
+3/27/2023,Northern,Rice,28.12,30.5,0.24,Yes,0,1
+3/27/2023,Volta,Cocoa,32.53,27.2,0.38,Yes,0,0
+3/29/2023,Volta,Maize,42.7,27.9,0.34,No,1,1
+3/29/2023,Ashanti,Cassava,50.94,29.4,0.34,Yes,1,1
+3/29/2023,Greater Accra,Cassava,27.82,31,0.36,Yes,0,1
+3/30/2023,Volta,Maize,42.65,29.4,0.31,No,1,1
+3/30/2023,Northern,Cassava,38.97,30.6,0.43,Yes,0,0
+3/31/2023,Volta,Cocoa,36.89,24.3,0.25,Yes,0,1
+3/31/2023,Northern,Cocoa,41.41,29.8,0.19,No,0,0
+3/31/2023,Northern,Maize,34.1,31.7,0.36,Yes,0,0
+3/31/2023,Greater Accra,Maize,25.29,30.9,0.38,Yes,0,0
+3/31/2023,Northern,Maize,42.37,28.9,0.34,Yes,0,0
+4/1/2023,Western,Rice,197.73,27.6,0.53,Yes,0,1
+4/2/2023,Greater Accra,Cassava,120.4,27.3,0.35,Yes,0,0
+4/2/2023,Western,Maize,324.16,26.8,0.7,Yes,0,1
+4/2/2023,Ashanti,Maize,161.46,22.6,0.45,Yes,1,1
+4/2/2023,Greater Accra,Cassava,76.19,31.1,0.42,Yes,1,1
+4/2/2023,Western,Yam,227.22,24.6,0.6,Yes,0,0
+4/2/2023,Volta,Cocoa,211.77,27.8,0.53,Yes,0,1
+4/2/2023,Western,Cassava,289.16,26.1,0.6,No,0,1
+4/2/2023,Volta,Maize,209.28,23.7,0.34,No,0,1
+4/3/2023,Northern,Cocoa,229.9,26.5,0.32,Yes,1,1
+4/3/2023,Northern,Cassava,250.69,26.9,0.13,Yes,1,1
+4/3/2023,Greater Accra,Maize,136.49,28.2,0.48,No,0,1
+4/3/2023,Northern,Yam,179.9,29.3,0.33,Yes,0,1
+4/3/2023,Western,Cocoa,333.55,26.4,0.52,No,1,1
+4/3/2023,Western,Cocoa,219.05,25.9,0.7,No,1,1
+4/4/2023,Western,Yam,341.93,23.5,0.7,Yes,1,0
+4/4/2023,Northern,Cassava,199.54,28.9,0.35,No,1,1
+4/6/2023,Volta,Cassava,134.29,22.6,0.39,No,0,1
+4/6/2023,Greater Accra,Cassava,133.63,26.2,0.4,No,0,1
+4/6/2023,Volta,Rice,266.23,25.1,0.63,No,1,1
+4/6/2023,Greater Accra,Yam,132.49,24.5,0.39,Yes,0,0
+4/7/2023,Volta,Cocoa,236.64,25.9,0.57,No,0,1
+4/7/2023,Greater Accra,Yam,135.19,26.6,0.53,Yes,1,1
+4/7/2023,Ashanti,Cocoa,206.43,21.8,0.59,No,1,0
+4/7/2023,Western,Rice,271.5,20.4,0.7,No,0,0
+4/7/2023,Greater Accra,Maize,119.52,26.9,0.44,No,0,0
+4/8/2023,Western,Rice,225.92,28.1,0.53,No,1,1
+4/8/2023,Northern,Cassava,152.07,30.1,0.19,Yes,0,1
+4/8/2023,Northern,Yam,189.22,31.5,0.26,Yes,1,1
+4/8/2023,Northern,Maize,165.66,28.4,0.32,No,1,1
+4/8/2023,Ashanti,Cocoa,263.46,23.5,0.54,Yes,1,1
+4/9/2023,Western,Cassava,182.11,24,0.7,Yes,1,1
+4/9/2023,Western,Maize,276.65,23.6,0.59,Yes,1,1
+4/10/2023,Greater Accra,Yam,125.75,29.8,0.28,Yes,1,1
+4/10/2023,Northern,Cassava,192.7,26.6,0.23,No,0,1
+4/10/2023,Northern,Rice,172.15,27.5,0.2,Yes,0,0
+4/10/2023,Volta,Maize,201.32,25.3,0.43,Yes,1,1
+4/11/2023,Ashanti,Cocoa,175.71,25.8,0.68,No,1,1
+4/11/2023,Western,Rice,227.41,24.2,0.7,Yes,0,1
+4/11/2023,Ashanti,Cassava,294.8,25.6,0.58,No,1,1
+4/12/2023,Western,Yam,262.07,25.2,0.7,No,1,1
+4/13/2023,Volta,Rice,204.37,25.5,0.41,Yes,0,1
+4/13/2023,Volta,Cocoa,176.86,26.9,0.61,No,0,1
+4/13/2023,Ashanti,Rice,268.14,24.5,0.6,Yes,0,1
+4/13/2023,Greater Accra,Yam,137.4,29.6,0.34,No,1,1
+4/14/2023,Volta,Rice,200.18,27.3,0.63,No,1,1
+4/14/2023,Northern,Rice,149.73,30.7,0.4,Yes,1,0
+4/16/2023,Ashanti,Yam,230.07,23.4,0.57,No,1,0
+4/16/2023,Volta,Maize,192.92,24.6,0.34,Yes,1,1
+4/16/2023,Greater Accra,Maize,113.48,26.6,0.36,Yes,1,1
+4/17/2023,Western,Rice,236.79,25,0.52,Yes,1,1
+4/17/2023,Western,Maize,241.55,22.9,0.45,Yes,1,1
+4/17/2023,Western,Rice,133.59,25.3,0.7,Yes,1,1
+4/17/2023,Volta,Cassava,201.42,27.5,0.48,Yes,0,1
+4/17/2023,Greater Accra,Maize,128.22,28,0.39,Yes,0,0
+4/17/2023,Volta,Cocoa,235.1,26.5,0.6,Yes,1,1
+4/18/2023,Northern,Cocoa,220.54,23.5,0.36,Yes,0,1
+4/18/2023,Volta,Maize,236.62,28.6,0.55,No,1,1
+4/18/2023,Western,Cassava,366.59,27.6,0.57,Yes,1,1
+4/18/2023,Ashanti,Cocoa,310.01,28.2,0.66,Yes,1,1
+4/19/2023,Volta,Yam,283.15,24.7,0.52,No,0,1
+4/19/2023,Western,Rice,187.05,24.1,0.7,No,0,1
+4/19/2023,Ashanti,Rice,243.71,26.6,0.64,Yes,0,0
+4/20/2023,Western,Yam,269.75,26.9,0.55,No,1,1
+4/20/2023,Volta,Maize,253.13,27.3,0.38,No,1,1
+4/21/2023,Ashanti,Maize,271.62,22.9,0.53,No,1,1
+4/21/2023,Greater Accra,Cocoa,125.32,25.4,0.36,No,0,0
+4/21/2023,Northern,Yam,165.27,27.2,0.22,Yes,0,1
+4/21/2023,Western,Cassava,356.48,25.3,0.54,No,1,1
+4/21/2023,Western,Yam,266.46,26.3,0.58,Yes,0,1
+4/21/2023,Western,Yam,338.82,26,0.62,No,1,1
+4/22/2023,Volta,Maize,165.84,27.7,0.49,Yes,0,1
+4/22/2023,Greater Accra,Rice,105.02,29,0.34,Yes,0,1
+4/22/2023,Western,Yam,337.38,23.3,0.56,Yes,1,1
+4/23/2023,Ashanti,Yam,284.56,28.7,0.61,Yes,0,1
+4/23/2023,Northern,Maize,232.73,28.5,0.49,No,0,1
+4/23/2023,Ashanti,Maize,241.92,24.2,0.57,Yes,0,1
+4/23/2023,Volta,Cassava,191.78,27.7,0.42,Yes,1,1
+4/23/2023,Northern,Yam,161.85,28.1,0.45,Yes,1,0
+4/24/2023,Ashanti,Rice,271.71,23.6,0.7,No,0,1
+4/24/2023,Greater Accra,Rice,112.79,23.9,0.34,Yes,1,1
+4/24/2023,Greater Accra,Yam,133.58,28.1,0.39,Yes,0,0
+4/25/2023,Greater Accra,Yam,134.68,25.9,0.24,Yes,0,1
+4/25/2023,Volta,Rice,151.4,24.8,0.5,Yes,1,1
+4/25/2023,Western,Cassava,315.14,25.1,0.62,Yes,1,1
+4/25/2023,Volta,Cocoa,110.18,27.8,0.61,Yes,1,1
+4/26/2023,Western,Cocoa,310.47,24.5,0.7,Yes,0,1
+4/26/2023,Volta,Yam,215.7,27.2,0.54,Yes,0,1
+4/27/2023,Greater Accra,Maize,136.48,27.8,0.37,Yes,0,1
+4/27/2023,Greater Accra,Rice,126.51,23,0.32,No,1,0
+4/27/2023,Northern,Maize,170.57,29.3,0.1,No,0,1
+4/27/2023,Western,Rice,288.78,24.1,0.7,No,1,1
+4/28/2023,Volta,Maize,205.05,25,0.57,No,1,1
+4/28/2023,Northern,Yam,171.78,24,0.31,No,0,0
+4/29/2023,Volta,Maize,224.28,28.5,0.56,No,0,1
+4/29/2023,Northern,Rice,170.1,24.3,0.37,No,0,0
+4/29/2023,Northern,Maize,197.56,26.9,0.44,No,0,1
+4/29/2023,Northern,Cocoa,138.84,26.2,0.38,Yes,0,1
+4/29/2023,Western,Rice,269.72,21.3,0.7,No,0,1
+4/30/2023,Ashanti,Maize,334.46,24.2,0.43,Yes,1,0
+4/30/2023,Greater Accra,Yam,137.36,27.3,0.41,Yes,0,1
+5/2/2023,Volta,Yam,299.91,24.2,0.6,Yes,0,1
+5/3/2023,Northern,Cassava,94.95,24.5,0.51,No,1,1
+5/4/2023,Ashanti,Maize,266.85,24.9,0.65,No,0,1
+5/4/2023,Volta,Maize,210.73,26.1,0.63,Yes,1,1
+5/4/2023,Western,Maize,264.21,22.3,0.64,Yes,1,0
+5/4/2023,Ashanti,Rice,284.61,25.6,0.52,No,0,1
+5/4/2023,Volta,Maize,191.18,22.9,0.55,No,0,0
+5/5/2023,Greater Accra,Maize,82.32,29.2,0.39,Yes,1,1
+5/5/2023,Ashanti,Cocoa,229.7,26.5,0.5,No,1,1
+5/6/2023,Northern,Rice,163.46,31.4,0.39,No,1,0
+5/6/2023,Greater Accra,Maize,91.19,26.9,0.32,Yes,1,1
+5/7/2023,Northern,Maize,223.41,29,0.34,Yes,1,1
+5/7/2023,Ashanti,Cassava,262.45,24.8,0.57,Yes,0,1
+5/7/2023,Western,Cocoa,172.66,28.8,0.56,Yes,1,1
+5/7/2023,Ashanti,Maize,290.14,24.7,0.57,Yes,0,1
+5/7/2023,Ashanti,Cassava,220.71,25.7,0.58,No,1,1
+5/9/2023,Greater Accra,Cassava,137.54,28.7,0.36,Yes,0,1
+5/10/2023,Ashanti,Cassava,211.93,23.8,0.69,Yes,1,1
+5/10/2023,Greater Accra,Yam,135.95,26.2,0.3,No,0,1
+5/11/2023,Western,Cassava,221.61,26.3,0.56,No,0,1
+5/12/2023,Ashanti,Maize,242.12,26,0.6,Yes,1,1
+5/12/2023,Northern,Cassava,167.64,29.5,0.33,No,0,1
+5/12/2023,Ashanti,Yam,225.95,25.8,0.64,Yes,1,1
+5/13/2023,Greater Accra,Rice,117.32,22.6,0.33,No,1,1
+5/14/2023,Greater Accra,Maize,117.77,29.2,0.51,No,0,1
+5/14/2023,Western,Cassava,303.07,23.4,0.7,Yes,1,1
+5/14/2023,Ashanti,Yam,224.1,26.4,0.55,Yes,1,1
+5/14/2023,Northern,Cassava,180.34,29,0.29,Yes,0,1
+5/15/2023,Western,Yam,251.6,30.3,0.7,Yes,1,1
+5/16/2023,Western,Maize,218.72,23,0.55,Yes,0,1
+5/16/2023,Ashanti,Yam,262.21,25.4,0.37,No,0,1
+5/17/2023,Greater Accra,Cassava,113.12,29.8,0.32,Yes,0,0
+5/17/2023,Western,Cocoa,283.76,24.8,0.7,No,1,1
+5/18/2023,Greater Accra,Cassava,109.45,26.7,0.41,Yes,0,1
+5/18/2023,Northern,Rice,133.2,26.7,0.41,Yes,1,1
+5/19/2023,Western,Rice,205.48,25.6,0.51,Yes,1,0
+5/19/2023,Northern,Maize,207.5,28,0.23,No,1,1
+5/19/2023,Ashanti,Rice,246.17,25.9,0.57,Yes,0,1
+5/19/2023,Ashanti,Yam,285.41,26,0.5,Yes,0,0
+5/20/2023,Volta,Rice,192.45,29,0.51,Yes,1,1
+5/20/2023,Northern,Yam,184.32,27.3,0.39,Yes,0,1
+5/21/2023,Ashanti,Maize,198.07,24.4,0.28,No,0,1
+5/21/2023,Ashanti,Yam,219.81,27.7,0.58,Yes,1,1
+5/21/2023,Northern,Rice,149.9,31.3,0.43,Yes,1,0
+5/22/2023,Ashanti,Cassava,254.45,27.4,0.55,Yes,1,1
+5/22/2023,Northern,Cassava,156.89,29.6,0.4,Yes,0,1
+5/22/2023,Volta,Cassava,201.02,27,0.69,No,0,1
+5/22/2023,Ashanti,Maize,246.76,25.7,0.64,Yes,1,1
+5/23/2023,Volta,Cassava,213.88,26.5,0.55,No,1,0
+5/23/2023,Western,Cocoa,296.18,24.2,0.67,No,0,0
+5/23/2023,Northern,Cocoa,209.31,22.7,0.28,No,1,1
+5/23/2023,Greater Accra,Maize,112.75,29.9,0.31,Yes,1,1
+5/23/2023,Volta,Cassava,214.54,29.2,0.44,No,1,1
+5/24/2023,Ashanti,Cocoa,254.25,24.5,0.7,No,1,1
+5/24/2023,Volta,Cocoa,182.39,22.1,0.39,Yes,0,1
+5/25/2023,Northern,Cassava,133.82,28.1,0.42,Yes,0,0
+5/25/2023,Ashanti,Cocoa,292.33,28.5,0.7,No,0,1
+5/25/2023,Volta,Cassava,264.17,25,0.32,No,0,1
+5/26/2023,Northern,Yam,195.15,27.2,0.14,Yes,0,0
+5/26/2023,Ashanti,Yam,275.53,24.7,0.57,Yes,1,1
+5/26/2023,Northern,Cocoa,239.28,24.4,0.51,No,1,1
+5/26/2023,Western,Rice,322.21,26.4,0.52,No,0,1
+5/27/2023,Volta,Yam,268.35,21.1,0.53,Yes,1,1
+5/28/2023,Western,Yam,386.02,23.3,0.7,Yes,0,1
+5/28/2023,Ashanti,Cocoa,266.15,25.5,0.56,Yes,1,1
+5/29/2023,Western,Cassava,298.26,25.3,0.68,Yes,1,1
+5/29/2023,Ashanti,Yam,238.19,26.2,0.62,No,1,1
+5/29/2023,Ashanti,Cassava,235.38,24,0.7,Yes,1,0
+5/29/2023,Western,Maize,337.09,22.2,0.52,Yes,1,1
+5/30/2023,Greater Accra,Cassava,139.75,26.9,0.46,Yes,1,1
+5/30/2023,Western,Yam,239.75,25.3,0.7,Yes,1,1
+5/30/2023,Volta,Rice,243.73,22.9,0.4,No,0,1
+5/30/2023,Greater Accra,Rice,112.48,22,0.43,No,1,1
+5/31/2023,Ashanti,Maize,339.58,23.5,0.57,Yes,1,0
+5/31/2023,Northern,Cassava,143.38,29.1,0.36,Yes,1,1
+6/1/2023,Ashanti,Rice,265.31,26.8,0.7,Yes,1,1
+6/1/2023,Greater Accra,Yam,107.01,25.4,0.4,Yes,0,1
+6/1/2023,Greater Accra,Rice,98.83,24.3,0.55,Yes,0,1
+6/1/2023,Greater Accra,Yam,101,28.4,0.24,Yes,1,0
+6/1/2023,Northern,Cocoa,167.21,33.3,0.43,No,0,1
+6/1/2023,Western,Yam,186.1,23.8,0.69,Yes,0,1
+6/2/2023,Volta,Yam,155.68,26.6,0.49,Yes,0,1
+6/2/2023,Western,Yam,286.6,22.5,0.7,Yes,1,1
+6/2/2023,Western,Rice,227.75,22.8,0.66,Yes,0,1
+6/3/2023,Greater Accra,Cassava,93.82,30.3,0.2,Yes,0,1
+6/3/2023,Greater Accra,Cocoa,141.8,26.1,0.45,Yes,1,1
+6/3/2023,Western,Rice,251.09,24.3,0.7,Yes,0,1
+6/4/2023,Greater Accra,Rice,138.12,24.1,0.32,No,1,1
+6/4/2023,Volta,Rice,212.3,22.6,0.32,Yes,1,1
+6/5/2023,Greater Accra,Yam,63.5,26.4,0.48,No,0,1
+6/5/2023,Western,Cocoa,317.54,23.9,0.7,Yes,1,1
+6/6/2023,Western,Maize,299.91,25.9,0.55,Yes,1,1
+6/6/2023,Volta,Rice,225.05,28.2,0.52,Yes,0,1
+6/7/2023,Greater Accra,Maize,120.93,24.9,0.37,No,1,1
+6/7/2023,Ashanti,Yam,221.3,26,0.56,Yes,0,1
+6/7/2023,Greater Accra,Rice,120.81,24.5,0.41,No,0,0
+6/7/2023,Volta,Rice,184.84,27,0.57,Yes,0,1
+6/7/2023,Volta,Maize,189.9,27,0.42,Yes,1,1
+6/7/2023,Northern,Cassava,149.22,27.9,0.39,No,1,1
+6/8/2023,Greater Accra,Cassava,113.6,26.4,0.39,Yes,1,1
+6/8/2023,Ashanti,Rice,279.37,24,0.44,Yes,0,1
+6/8/2023,Ashanti,Yam,212.2,27.4,0.7,Yes,0,1
+6/8/2023,Volta,Cocoa,139.82,24.5,0.47,Yes,0,1
+6/8/2023,Northern,Cassava,165.98,27.9,0.5,Yes,0,1
+6/8/2023,Northern,Yam,159.65,25.8,0.3,Yes,1,1
+6/9/2023,Greater Accra,Cocoa,131.3,28.4,0.4,No,1,1
+6/9/2023,Western,Maize,305.84,25.3,0.7,No,1,1
+6/9/2023,Ashanti,Cocoa,281.13,22.3,0.7,Yes,0,1
+6/9/2023,Volta,Yam,249.85,28.6,0.31,No,0,1
+6/9/2023,Greater Accra,Rice,134.23,24.9,0.4,Yes,0,1
+6/9/2023,Volta,Maize,212.2,28,0.59,Yes,1,1
+6/10/2023,Western,Yam,331.38,25.2,0.62,Yes,0,0
+6/10/2023,Greater Accra,Cassava,69.32,24.7,0.43,Yes,0,1
+6/10/2023,Greater Accra,Cassava,99.6,25.5,0.26,Yes,1,0
+6/11/2023,Greater Accra,Maize,133.42,31,0.4,Yes,0,1
+6/11/2023,Volta,Rice,223.8,27.7,0.42,Yes,1,1
+6/11/2023,Western,Rice,289.96,27,0.56,Yes,1,1
+6/12/2023,Northern,Rice,146.52,26.9,0.41,Yes,0,1
+6/12/2023,Northern,Cocoa,167.59,27.4,0.29,Yes,0,1
+6/12/2023,Western,Yam,268.9,24,0.69,No,1,1
+6/13/2023,Greater Accra,Maize,120.29,27.9,0.39,Yes,1,1
+6/13/2023,Volta,Cassava,205.91,24.4,0.68,No,1,0
+6/13/2023,Northern,Maize,159.96,23.6,0.33,No,0,0
+6/14/2023,Ashanti,Cocoa,350.05,22.8,0.55,Yes,0,1
+6/14/2023,Ashanti,Maize,254.68,23.6,0.48,Yes,0,1
+6/14/2023,Greater Accra,Maize,89.02,25,0.49,Yes,1,1
+6/14/2023,Ashanti,Yam,225.44,24.6,0.57,No,0,1
+6/15/2023,Greater Accra,Maize,101.93,24.6,0.33,Yes,1,1
+6/15/2023,Western,Yam,310.41,28.8,0.65,Yes,0,1
+6/16/2023,Ashanti,Rice,263.94,23.2,0.66,No,1,1
+6/17/2023,Western,Cocoa,281.65,24.5,0.65,No,1,1
+6/18/2023,Western,Cocoa,261.85,24.9,0.7,No,1,1
+6/18/2023,Volta,Cocoa,257.13,24.5,0.49,No,1,1
+6/19/2023,Northern,Cocoa,200.23,26.4,0.47,Yes,0,1
+6/19/2023,Western,Cassava,272.33,27.1,0.69,No,0,1
+6/19/2023,Greater Accra,Rice,137.63,26.8,0.39,Yes,0,1
+6/19/2023,Western,Rice,267.44,25.6,0.47,Yes,0,1
+6/20/2023,Greater Accra,Yam,113.26,26.5,0.32,Yes,1,1
+6/21/2023,Western,Cocoa,239.54,26.1,0.58,Yes,0,1
+6/21/2023,Ashanti,Yam,254.27,25.9,0.53,Yes,0,1
+6/22/2023,Northern,Yam,142.79,28.3,0.36,No,0,0
+6/22/2023,Northern,Maize,171.66,29.1,0.43,Yes,0,0
+6/23/2023,Northern,Rice,212.41,30.8,0.17,Yes,1,1
+6/24/2023,Volta,Yam,250.67,27.8,0.54,Yes,0,0
+6/24/2023,Ashanti,Maize,238.84,25.3,0.59,Yes,1,1
+6/24/2023,Volta,Maize,174.39,23.6,0.53,No,1,1
+6/25/2023,Volta,Rice,224.53,28.5,0.58,Yes,1,1
+6/25/2023,Ashanti,Rice,275.83,27.2,0.47,No,0,1
+6/25/2023,Ashanti,Cocoa,271.17,23.7,0.56,Yes,1,1
+6/25/2023,Western,Cocoa,229.91,25,0.67,No,0,1
+6/25/2023,Northern,Maize,161.8,28.1,0.62,Yes,1,1
+6/26/2023,Volta,Yam,183.61,22.4,0.43,Yes,0,0
+6/26/2023,Western,Yam,261.93,21.4,0.65,Yes,1,0
+6/26/2023,Northern,Rice,169.69,28,0.39,Yes,1,1
+6/28/2023,Greater Accra,Rice,131.87,27.3,0.51,Yes,1,1
+6/28/2023,Ashanti,Cocoa,236.99,24.4,0.7,Yes,1,1
+6/28/2023,Ashanti,Yam,248.04,24.8,0.69,Yes,0,1
+6/28/2023,Volta,Maize,217.48,27.1,0.51,Yes,1,1
+6/28/2023,Ashanti,Cassava,295.45,26.1,0.54,Yes,0,1
+6/29/2023,Ashanti,Cassava,191.54,26.4,0.64,Yes,0,1
+6/30/2023,Greater Accra,Cassava,96.7,26.8,0.37,Yes,0,0
+7/1/2023,Volta,Maize,225.82,26.6,0.38,No,0,1
+7/1/2023,Volta,Rice,200.11,27.1,0.39,No,0,0
+7/2/2023,Ashanti,Rice,246.56,23,0.68,Yes,1,1
+7/2/2023,Ashanti,Yam,333.68,25,0.6,Yes,0,1
+7/2/2023,Western,Cocoa,360.85,26.5,0.7,Yes,0,1
+7/2/2023,Greater Accra,Maize,95.54,25.1,0.29,Yes,1,1
+7/2/2023,Western,Yam,265.37,27.8,0.52,Yes,0,1
+7/2/2023,Northern,Maize,145.46,25.7,0.28,No,0,0
+7/2/2023,Northern,Rice,132.19,31.2,0.45,Yes,1,1
+7/2/2023,Ashanti,Cocoa,247.62,26.5,0.42,Yes,1,0
+7/3/2023,Greater Accra,Rice,136.01,27,0.24,Yes,1,1
+7/4/2023,Greater Accra,Yam,130.82,29.6,0.32,Yes,1,1
+7/4/2023,Ashanti,Maize,221.16,29.6,0.64,No,1,1
+7/4/2023,Greater Accra,Cocoa,95.37,25.3,0.36,Yes,0,1
+7/5/2023,Greater Accra,Maize,119.7,23,0.45,Yes,1,1
+7/5/2023,Greater Accra,Maize,110.4,24.6,0.28,Yes,1,1
+7/5/2023,Ashanti,Yam,204.63,24.4,0.46,No,1,1
+7/5/2023,Volta,Yam,224.13,25.6,0.43,Yes,0,0
+7/6/2023,Volta,Maize,174.23,24.8,0.47,No,0,1
+7/7/2023,Volta,Rice,229.93,26.3,0.41,Yes,1,1
+7/7/2023,Western,Cocoa,206.16,23.3,0.6,No,0,1
+7/7/2023,Ashanti,Cassava,260.55,22.9,0.6,Yes,1,1
+7/7/2023,Volta,Maize,230.91,23.5,0.5,No,0,1
+7/7/2023,Greater Accra,Cocoa,117.19,24.9,0.53,Yes,1,1
+7/8/2023,Greater Accra,Cassava,145.7,25.8,0.32,Yes,1,1
+7/8/2023,Northern,Cassava,139.09,31.9,0.29,Yes,1,1
+7/8/2023,Volta,Cassava,135.3,26,0.46,Yes,1,1
+7/9/2023,Western,Rice,345.2,32.4,0.67,Yes,0,1
+7/9/2023,Ashanti,Cocoa,248.44,23.5,0.6,No,1,1
+7/9/2023,Volta,Yam,191.79,27.2,0.55,Yes,1,0
+7/9/2023,Volta,Cocoa,208.26,26.5,0.45,No,0,1
+7/9/2023,Western,Cassava,426.7,25.1,0.61,No,0,0
+7/10/2023,Volta,Yam,164.2,29,0.41,No,0,1
+7/10/2023,Volta,Cassava,175.5,26.5,0.43,Yes,0,1
+7/10/2023,Ashanti,Cocoa,216.24,23.4,0.7,No,0,1
+7/11/2023,Greater Accra,Maize,89.46,31,0.43,Yes,1,1
+7/11/2023,Northern,Yam,152.12,26.1,0.39,No,0,1
+7/11/2023,Western,Cocoa,339.73,26.6,0.7,No,1,1
+7/12/2023,Volta,Maize,186.1,23.7,0.48,Yes,1,1
+7/12/2023,Ashanti,Rice,284.42,22.2,0.49,Yes,0,1
+7/13/2023,Volta,Cassava,237.23,28.2,0.6,Yes,0,1
+7/13/2023,Northern,Cocoa,131.1,30.6,0.29,Yes,1,1
+7/13/2023,Northern,Rice,221.22,30.9,0.23,No,0,1
+7/14/2023,Northern,Cocoa,133.79,33.1,0.42,No,0,0
+7/14/2023,Volta,Cocoa,216.99,24.7,0.51,No,0,1
+7/14/2023,Northern,Maize,146.8,22,0.41,Yes,1,1
+7/14/2023,Northern,Maize,123.59,35.4,0.37,Yes,1,1
+7/15/2023,Ashanti,Cassava,278.09,25.8,0.54,No,0,1
+7/15/2023,Volta,Maize,258.01,27.2,0.46,Yes,1,1
+7/16/2023,Northern,Cocoa,156.92,30.5,0.35,No,0,1
+7/17/2023,Greater Accra,Rice,109.39,27.2,0.38,No,0,1
+7/17/2023,Volta,Cocoa,196.6,25.7,0.33,Yes,1,1
+7/17/2023,Western,Cassava,210.54,26,0.7,No,0,1
+7/18/2023,Greater Accra,Yam,115.66,27.6,0.32,Yes,0,0
+7/18/2023,Northern,Rice,143.31,33.4,0.49,No,1,1
+7/18/2023,Northern,Yam,142.72,25.2,0.29,No,1,0
+7/19/2023,Volta,Rice,169.25,25.6,0.49,Yes,0,1
+7/19/2023,Ashanti,Yam,298.23,21,0.46,No,0,1
+7/19/2023,Volta,Rice,196.29,21.7,0.59,No,1,1
+7/20/2023,Greater Accra,Rice,123.96,28.9,0.35,Yes,1,1
+7/20/2023,Volta,Cassava,171.81,29.3,0.6,No,0,1
+7/20/2023,Ashanti,Cassava,293.45,27.4,0.54,No,1,1
+7/20/2023,Northern,Maize,154.47,28.5,0.42,Yes,0,1
+7/20/2023,Greater Accra,Yam,97.62,27.2,0.47,Yes,0,1
+7/20/2023,Western,Yam,280.69,25.2,0.69,Yes,1,1
+7/21/2023,Northern,Maize,194.5,24.8,0.31,Yes,0,0
+7/21/2023,Volta,Cocoa,215.16,25.7,0.51,Yes,1,1
+7/21/2023,Northern,Maize,120.29,33.9,0.35,Yes,1,1
+7/22/2023,Northern,Rice,211.6,30.8,0.27,No,0,1
+7/22/2023,Ashanti,Cassava,266.29,25.6,0.6,No,0,1
+7/22/2023,Volta,Maize,211.09,27.2,0.39,Yes,0,1
+7/22/2023,Volta,Maize,194.18,26.8,0.53,No,0,1
+7/22/2023,Volta,Cocoa,160.83,25.1,0.52,Yes,0,0
+7/22/2023,Ashanti,Yam,240.29,26.3,0.47,Yes,1,1
+7/23/2023,Western,Cocoa,256.35,23.9,0.7,Yes,1,1
+7/23/2023,Greater Accra,Rice,140.38,24.9,0.39,Yes,0,1
+7/24/2023,Northern,Rice,181.43,23.8,0.39,No,1,1
+7/24/2023,Northern,Yam,159.24,27.8,0.3,Yes,0,1
+7/24/2023,Northern,Cassava,149.35,26.7,0.24,Yes,0,0
+7/24/2023,Ashanti,Cassava,203.44,27.3,0.37,Yes,0,1
+7/24/2023,Northern,Rice,168.09,32.7,0.47,Yes,0,1
+7/26/2023,Western,Yam,209.24,24.6,0.52,No,0,0
+7/26/2023,Northern,Maize,160.23,26.7,0.22,Yes,0,0
+7/27/2023,Western,Cocoa,234.07,23.5,0.7,No,1,1
+7/27/2023,Northern,Maize,189.46,23.8,0.47,No,1,1
+7/28/2023,Greater Accra,Maize,135.4,23,0.42,No,1,0
+7/28/2023,Volta,Cocoa,235.81,26.9,0.56,No,0,1
+7/28/2023,Western,Cocoa,222,22.5,0.62,No,0,1
+7/29/2023,Western,Cocoa,238.57,24.3,0.67,Yes,0,1
+7/29/2023,Ashanti,Yam,247.24,23.8,0.68,Yes,1,1
+7/29/2023,Northern,Cocoa,166.72,28.5,0.3,Yes,0,0
+7/29/2023,Northern,Cassava,136.9,18.9,0.46,No,1,1
+7/29/2023,Greater Accra,Rice,115.06,25.7,0.36,No,1,1
+7/30/2023,Western,Cocoa,300.66,24,0.43,Yes,0,1
+7/30/2023,Greater Accra,Yam,133.42,24.1,0.4,Yes,1,0
+7/31/2023,Northern,Rice,122.13,26.7,0.26,Yes,0,1
+7/31/2023,Volta,Rice,142.71,24.6,0.55,Yes,0,1
+7/31/2023,Northern,Cocoa,196.06,27.6,0.33,Yes,0,1
+7/31/2023,Northern,Rice,184.27,22.6,0.15,Yes,0,0
+8/1/2023,Northern,Maize,193.29,27.9,0.32,Yes,1,1
+8/1/2023,Ashanti,Yam,225.19,22.9,0.43,Yes,0,0
+8/1/2023,Ashanti,Cassava,281.13,24.3,0.61,Yes,1,1
+8/1/2023,Northern,Cocoa,146.58,28.3,0.43,No,0,1
+8/3/2023,Ashanti,Cassava,201.37,30.2,0.66,No,1,1
+8/3/2023,Greater Accra,Cassava,122.37,28.4,0.32,Yes,0,0
+8/3/2023,Greater Accra,Yam,94.76,28.8,0.47,Yes,0,1
+8/3/2023,Greater Accra,Rice,147.96,28.1,0.56,Yes,1,1
+8/4/2023,Western,Rice,305.1,25.2,0.7,Yes,1,1
+8/4/2023,Volta,Rice,119.26,25.2,0.49,Yes,0,1
+8/4/2023,Northern,Yam,173.17,24.4,0.25,Yes,0,0
+8/4/2023,Northern,Maize,182.61,31.7,0.45,Yes,0,0
+8/5/2023,Volta,Maize,209.09,28.5,0.48,No,0,1
+8/6/2023,Western,Cocoa,172.87,24.8,0.7,No,0,1
+8/7/2023,Volta,Rice,204.45,28.1,0.61,Yes,1,1
+8/7/2023,Western,Rice,217.3,25.3,0.67,Yes,1,1
+8/7/2023,Northern,Rice,153.18,27.9,0.22,Yes,1,1
+8/7/2023,Western,Maize,273.51,24.7,0.6,No,1,0
+8/7/2023,Greater Accra,Maize,132.54,26.6,0.36,Yes,0,0
+8/8/2023,Western,Rice,356.66,25,0.67,No,1,1
+8/9/2023,Northern,Cassava,192.87,27.4,0.26,No,0,1
+8/9/2023,Northern,Cassava,164.2,30.6,0.34,No,0,1
+8/10/2023,Western,Cocoa,239.97,23.5,0.62,Yes,1,1
+8/10/2023,Volta,Yam,250.52,29.6,0.44,No,0,1
+8/10/2023,Western,Yam,365.2,25,0.54,No,0,1
+8/11/2023,Ashanti,Maize,251.04,27.1,0.51,No,1,1
+8/11/2023,Ashanti,Cocoa,290.27,31.1,0.7,No,1,1
+8/11/2023,Northern,Cocoa,134.69,26.6,0.41,Yes,1,1
+8/13/2023,Northern,Cassava,102.89,29.1,0.4,No,1,0
+8/13/2023,Western,Cassava,395,30.1,0.51,Yes,1,1
+8/14/2023,Ashanti,Cocoa,252.09,24.6,0.45,No,0,1
+8/14/2023,Volta,Yam,213.33,28.3,0.27,Yes,0,1
+8/14/2023,Greater Accra,Cassava,108.35,27.5,0.34,Yes,0,1
+8/14/2023,Greater Accra,Maize,159.09,24.9,0.32,No,0,0
+8/14/2023,Western,Cocoa,228.09,26.7,0.7,No,1,0
+8/15/2023,Volta,Cassava,211.1,25.2,0.41,Yes,0,1
+8/15/2023,Ashanti,Yam,246.97,25.5,0.63,No,1,1
+8/15/2023,Volta,Cocoa,260.11,27.8,0.54,Yes,0,1
+8/16/2023,Greater Accra,Cassava,119.86,28.2,0.33,Yes,1,1
+8/16/2023,Western,Maize,217.77,24.4,0.62,No,1,0
+8/16/2023,Northern,Cocoa,155.54,27.1,0.22,No,1,1
+8/16/2023,Greater Accra,Cocoa,98.63,27.8,0.58,Yes,1,1
+8/16/2023,Greater Accra,Yam,85.15,26.9,0.48,Yes,0,1
+8/16/2023,Greater Accra,Cassava,127.26,29.6,0.35,Yes,0,0
+8/17/2023,Western,Rice,230.95,23.4,0.52,Yes,0,1
+8/17/2023,Northern,Yam,276.84,30.3,0.34,No,1,1
+8/17/2023,Ashanti,Cassava,225.25,27.1,0.47,Yes,0,1
+8/18/2023,Greater Accra,Cassava,131.99,24.6,0.26,No,0,1
+8/18/2023,Greater Accra,Cassava,168.24,25.5,0.42,Yes,0,0
+8/18/2023,Ashanti,Cassava,299.05,24.6,0.69,Yes,1,1
+8/19/2023,Greater Accra,Rice,109.91,26.5,0.21,No,0,1
+8/19/2023,Northern,Maize,142.09,26.4,0.33,Yes,1,1
+8/19/2023,Western,Yam,397.21,26.4,0.66,No,1,1
+8/19/2023,Northern,Rice,176.79,23.7,0.3,Yes,0,1
+8/20/2023,Greater Accra,Rice,92.13,28.2,0.44,Yes,0,1
+8/20/2023,Western,Rice,334.24,23.8,0.58,No,0,1
+8/20/2023,Volta,Yam,147.44,26.9,0.47,Yes,0,1
+8/21/2023,Ashanti,Rice,241.53,27.3,0.55,Yes,1,1
+8/21/2023,Greater Accra,Rice,109.35,24.4,0.32,Yes,1,1
+8/22/2023,Volta,Yam,260.87,24.3,0.44,No,0,1
+8/22/2023,Ashanti,Yam,301.57,27.6,0.7,No,1,0
+8/22/2023,Volta,Rice,234.64,28.5,0.61,Yes,1,1
+8/22/2023,Ashanti,Cocoa,159.35,27.5,0.69,No,0,1
+8/23/2023,Northern,Yam,170.33,26,0.25,Yes,1,1
+8/23/2023,Northern,Cocoa,200.4,27.8,0.34,Yes,1,1
+8/24/2023,Western,Cassava,393.59,23,0.67,No,1,1
+8/24/2023,Northern,Cocoa,116.41,34.3,0.28,Yes,0,1
+8/24/2023,Ashanti,Rice,274.6,23.5,0.6,Yes,1,0
+8/24/2023,Western,Maize,315.62,22.8,0.7,Yes,1,1
+8/24/2023,Northern,Yam,163.04,33.6,0.28,Yes,0,1
+8/25/2023,Greater Accra,Maize,132.84,25.5,0.46,Yes,1,1
+8/25/2023,Greater Accra,Rice,114.47,28.3,0.35,Yes,1,1
+8/26/2023,Northern,Yam,220.67,21.9,0.47,Yes,1,1
+8/26/2023,Northern,Rice,178.54,31.2,0.3,No,0,0
+8/26/2023,Northern,Cocoa,161.62,30.3,0.36,Yes,1,1
+8/26/2023,Northern,Rice,174.36,25.1,0.36,No,0,0
+8/26/2023,Northern,Maize,118.44,28.1,0.28,No,0,0
+8/26/2023,Volta,Cassava,223.19,24.4,0.47,No,1,1
+8/28/2023,Volta,Cassava,267.21,27,0.48,Yes,0,1
+8/29/2023,Northern,Rice,128.12,31.4,0.34,Yes,0,0
+8/29/2023,Volta,Yam,207.2,22.6,0.55,No,0,1
+8/30/2023,Volta,Maize,194.24,26.1,0.37,Yes,0,1
+8/30/2023,Western,Maize,230.46,25.4,0.52,Yes,0,1
+8/30/2023,Western,Cocoa,260.26,27.3,0.68,Yes,1,1
+8/30/2023,Northern,Maize,146.25,29.8,0.44,No,0,1
+8/30/2023,Greater Accra,Yam,128.07,26.8,0.3,No,0,0
+8/31/2023,Western,Cocoa,345.75,22.7,0.59,No,1,0
+8/31/2023,Volta,Cassava,182.91,28.2,0.68,No,0,0
+9/1/2023,Northern,Cocoa,195.14,29.7,0.3,Yes,1,1
+9/1/2023,Western,Maize,257.64,25.8,0.7,No,1,1
+9/2/2023,Greater Accra,Maize,124.58,28.6,0.36,Yes,0,1
+9/2/2023,Volta,Cocoa,193.61,26.3,0.47,No,1,1
+9/2/2023,Ashanti,Yam,295.24,22.4,0.51,Yes,0,1
+9/2/2023,Northern,Cassava,212.26,20.9,0.3,Yes,1,1
+9/2/2023,Western,Cassava,251.33,23.1,0.7,Yes,0,1
+9/2/2023,Ashanti,Yam,178.12,25.6,0.51,Yes,1,1
+9/3/2023,Volta,Maize,173.04,29.3,0.5,No,0,1
+9/3/2023,Greater Accra,Cocoa,114.05,26.1,0.31,No,0,0
+9/3/2023,Volta,Maize,196.15,26.7,0.48,No,1,1
+9/4/2023,Volta,Cocoa,207.5,27.5,0.63,Yes,1,0
+9/4/2023,Northern,Maize,151.2,32.2,0.29,No,0,0
+9/4/2023,Volta,Cocoa,178.12,25.6,0.47,Yes,1,1
+9/4/2023,Northern,Maize,161.73,27,0.57,Yes,0,0
+9/4/2023,Northern,Cassava,179.28,24.2,0.27,No,0,1
+9/5/2023,Northern,Rice,153.89,31.2,0.39,Yes,1,1
+9/6/2023,Northern,Yam,184.58,29,0.32,Yes,1,1
+9/6/2023,Volta,Maize,201.02,26.4,0.48,Yes,0,1
+9/7/2023,Ashanti,Rice,330.52,23.9,0.66,No,1,1
+9/7/2023,Western,Maize,316.95,25.8,0.7,Yes,1,1
+9/7/2023,Volta,Rice,270.76,25,0.53,Yes,1,1
+9/7/2023,Northern,Maize,168.02,29.5,0.45,Yes,1,1
+9/7/2023,Western,Yam,315.43,24.1,0.7,No,1,1
+9/8/2023,Western,Rice,277.34,21.6,0.7,Yes,0,1
+9/8/2023,Volta,Cassava,195.38,23.8,0.47,No,0,1
+9/8/2023,Greater Accra,Cassava,133.5,28,0.52,Yes,0,1
+9/8/2023,Western,Maize,261.14,24.7,0.51,No,1,1
+9/9/2023,Greater Accra,Cassava,118.64,24.4,0.52,Yes,1,1
+9/9/2023,Ashanti,Yam,232.74,24.1,0.59,Yes,0,1
+9/10/2023,Volta,Cassava,219.23,30,0.51,Yes,0,1
+9/10/2023,Greater Accra,Rice,94.8,25.7,0.26,Yes,1,1
+9/10/2023,Ashanti,Rice,170.93,26.8,0.63,Yes,1,1
+9/10/2023,Ashanti,Maize,119.77,27.5,0.59,No,0,1
+9/11/2023,Greater Accra,Rice,126.03,26.7,0.25,No,0,1
+9/11/2023,Ashanti,Yam,251.68,22.2,0.5,Yes,0,0
+9/11/2023,Greater Accra,Yam,132.44,26.6,0.47,Yes,0,1
+9/11/2023,Northern,Rice,200.34,23.8,0.44,No,0,0
+9/11/2023,Western,Cocoa,364.36,22.7,0.6,Yes,1,1
+9/11/2023,Ashanti,Yam,273.73,25.9,0.56,Yes,0,1
+9/12/2023,Ashanti,Rice,229.79,24.4,0.7,No,1,1
+9/12/2023,Northern,Rice,168.39,29.1,0.29,No,0,1
+9/12/2023,Greater Accra,Cocoa,92,26,0.47,Yes,0,1
+9/13/2023,Greater Accra,Rice,167.82,28.8,0.43,Yes,1,1
+9/13/2023,Volta,Maize,209.09,25.6,0.39,Yes,1,1
+9/13/2023,Volta,Rice,210.02,22.3,0.46,No,1,1
+9/14/2023,Western,Rice,303.83,23.4,0.7,No,1,1
+9/14/2023,Western,Cassava,315.48,23.8,0.7,Yes,0,1
+9/15/2023,Western,Cassava,304.74,21.7,0.7,Yes,0,1
+9/15/2023,Volta,Cassava,175.61,24.6,0.4,Yes,0,0
+9/16/2023,Northern,Cassava,209.36,28.9,0.26,Yes,0,1
+9/16/2023,Northern,Yam,175.61,27.7,0.42,Yes,0,1
+9/17/2023,Greater Accra,Maize,108.15,27.5,0.44,Yes,0,1
+9/17/2023,Greater Accra,Maize,154.76,27,0.42,Yes,1,1
+9/17/2023,Northern,Yam,205.98,27.9,0.22,No,0,0
+9/18/2023,Greater Accra,Cassava,136.3,25.2,0.4,Yes,0,0
+9/18/2023,Northern,Yam,128.58,32.1,0.17,No,1,1
+9/18/2023,Volta,Cocoa,219.89,26.8,0.55,No,0,1
+9/18/2023,Ashanti,Rice,217.88,22.7,0.61,Yes,1,1
+9/18/2023,Western,Yam,287.5,23.3,0.64,Yes,0,1
+9/19/2023,Greater Accra,Cocoa,124.21,26,0.42,No,0,0
+9/19/2023,Greater Accra,Rice,82.39,27.5,0.3,No,0,0
+9/20/2023,Greater Accra,Yam,130.28,23.2,0.56,Yes,0,1
+9/20/2023,Volta,Cassava,151.96,28,0.49,Yes,0,1
+9/21/2023,Greater Accra,Cassava,168.58,26.4,0.4,Yes,1,1
+9/21/2023,Western,Yam,254.63,26.1,0.7,Yes,1,0
+9/22/2023,Northern,Cassava,126.73,33.6,0.23,Yes,0,0
+9/22/2023,Western,Cassava,299.81,25.9,0.65,Yes,1,1
+9/23/2023,Volta,Cocoa,249.97,26.8,0.42,Yes,0,1
+9/23/2023,Ashanti,Cocoa,248.19,27,0.7,Yes,0,1
+9/23/2023,Greater Accra,Rice,106.91,28.8,0.42,No,0,1
+9/23/2023,Greater Accra,Cocoa,144.33,28.2,0.5,Yes,1,1
+9/23/2023,Northern,Yam,185.87,28.4,0.44,Yes,1,1
+9/24/2023,Greater Accra,Maize,119.98,27.8,0.4,Yes,0,0
+9/24/2023,Ashanti,Cassava,279.68,24.6,0.67,Yes,1,1
+9/24/2023,Northern,Rice,156.84,31.1,0.51,No,0,0
+9/24/2023,Ashanti,Yam,268.61,27,0.7,Yes,1,1
+9/25/2023,Volta,Cassava,171.26,27,0.4,No,1,1
+9/25/2023,Ashanti,Cocoa,163.95,26.2,0.7,Yes,1,1
+9/25/2023,Western,Cocoa,350.84,24,0.7,No,1,0
+9/25/2023,Volta,Cassava,174.36,24.6,0.49,Yes,1,1
+9/25/2023,Ashanti,Yam,329.2,24.7,0.55,Yes,0,0
+9/25/2023,Ashanti,Yam,319.06,26,0.22,Yes,1,1
+9/25/2023,Volta,Rice,153.92,25.9,0.54,No,1,1
+9/25/2023,Western,Yam,297.88,19.8,0.65,No,0,1
+9/26/2023,Ashanti,Rice,328.96,25.4,0.7,Yes,0,1
+9/26/2023,Ashanti,Rice,186.78,24,0.7,No,1,1
+9/26/2023,Ashanti,Rice,331.64,21.8,0.59,Yes,0,1
+9/26/2023,Greater Accra,Maize,138.31,27.5,0.41,No,0,0
+9/26/2023,Greater Accra,Cocoa,136.34,28,0.46,Yes,1,1
+9/27/2023,Western,Cassava,208.44,21.8,0.61,Yes,1,0
+9/27/2023,Western,Maize,338.71,24.7,0.7,Yes,1,1
+9/27/2023,Volta,Rice,186.5,27.5,0.55,Yes,0,1
+9/28/2023,Volta,Cassava,251.02,22.9,0.48,Yes,1,1
+9/28/2023,Ashanti,Maize,298.22,26.8,0.45,Yes,1,0
+9/28/2023,Volta,Cassava,139.01,27.3,0.37,Yes,1,1
+9/29/2023,Volta,Yam,213.32,25.6,0.54,Yes,0,1
+9/29/2023,Western,Yam,277.16,24.9,0.7,Yes,1,1
+9/29/2023,Northern,Maize,186.64,28.2,0.12,No,0,0
+9/29/2023,Northern,Cassava,168.92,27.1,0.19,Yes,0,1
+9/30/2023,Ashanti,Maize,245.28,31.7,0.48,No,1,1
+9/30/2023,Ashanti,Cocoa,232.91,23.8,0.63,Yes,0,1
+9/30/2023,Ashanti,Cassava,298.04,24.3,0.56,Yes,0,1
+9/30/2023,Greater Accra,Yam,122.73,25.8,0.23,Yes,0,1
+10/1/2023,Volta,Cocoa,181.57,28.3,0.47,Yes,0,1
+10/1/2023,Greater Accra,Rice,101.62,26.5,0.45,No,0,1
+10/1/2023,Volta,Cocoa,217.8,21.1,0.5,No,1,1
+10/1/2023,Ashanti,Yam,207.25,26.3,0.56,No,1,1
+10/2/2023,Western,Yam,302.39,26.8,0.67,No,0,1
+10/2/2023,Western,Cocoa,354.39,22.9,0.7,No,1,1
+10/2/2023,Western,Rice,267.24,22.3,0.69,No,1,1
+10/3/2023,Ashanti,Maize,293.47,24.6,0.57,Yes,0,1
+10/3/2023,Western,Yam,282.7,24.8,0.57,No,1,1
+10/3/2023,Volta,Cocoa,228.93,28.4,0.54,No,0,1
+10/4/2023,Greater Accra,Rice,118.15,27,0.33,Yes,0,1
+10/4/2023,Ashanti,Cassava,270.92,24.1,0.63,Yes,1,1
+10/4/2023,Ashanti,Cocoa,283.9,23.6,0.65,Yes,1,1
+10/4/2023,Volta,Rice,268.45,28,0.57,Yes,1,1
+10/4/2023,Ashanti,Cassava,201.01,24.2,0.6,Yes,1,1
+10/5/2023,Volta,Cassava,226.44,26,0.48,Yes,0,1
+10/5/2023,Ashanti,Cassava,301.11,28.4,0.56,No,1,1
+10/5/2023,Ashanti,Cassava,264.06,24.2,0.48,Yes,0,1
+10/5/2023,Northern,Maize,187.98,28.2,0.35,Yes,0,0
+10/6/2023,Western,Cassava,263.6,29.1,0.7,No,1,1
+10/6/2023,Northern,Maize,143.03,34,0.33,No,0,1
+10/6/2023,Greater Accra,Rice,133.99,28.4,0.5,Yes,0,1
+10/6/2023,Northern,Yam,166.44,30.9,0.51,Yes,1,1
+10/7/2023,Ashanti,Cassava,181.55,28.5,0.46,Yes,0,1
+10/8/2023,Greater Accra,Rice,104.51,26.2,0.45,Yes,1,1
+10/8/2023,Volta,Maize,242.4,25.9,0.52,Yes,1,1
+10/9/2023,Northern,Cocoa,177.94,30.2,0.27,Yes,1,1
+10/9/2023,Volta,Cassava,204.85,27.7,0.65,Yes,0,1
+10/9/2023,Western,Yam,214.15,28.6,0.7,No,0,1
+10/10/2023,Greater Accra,Yam,96.1,31,0.28,Yes,0,1
+10/10/2023,Volta,Cocoa,217.14,23.6,0.58,Yes,0,1
+10/10/2023,Western,Cocoa,251.42,22.8,0.7,No,0,1
+10/10/2023,Ashanti,Cocoa,267.61,23.7,0.5,No,1,1
+10/10/2023,Ashanti,Yam,202.68,27,0.7,Yes,0,1
+10/10/2023,Northern,Rice,176.43,24.3,0.24,Yes,0,0
+10/10/2023,Western,Maize,342.24,21.5,0.7,Yes,1,1
+10/11/2023,Western,Yam,315.36,23.5,0.59,Yes,0,1
+10/12/2023,Greater Accra,Maize,112.21,23.2,0.39,Yes,1,1
+10/13/2023,Northern,Cassava,166.29,28.1,0.39,No,0,1
+10/14/2023,Northern,Maize,175.94,26.4,0.16,Yes,1,1
+10/14/2023,Northern,Cassava,152.2,25.4,0.25,No,1,1
+10/14/2023,Ashanti,Rice,262.89,24.4,0.7,Yes,0,1
+10/14/2023,Western,Cassava,243.62,24.3,0.62,No,0,0
+10/15/2023,Ashanti,Yam,242.44,23.3,0.37,Yes,1,1
+10/15/2023,Western,Rice,276.23,23.9,0.44,Yes,1,1
+10/15/2023,Volta,Rice,176.96,24.5,0.51,Yes,1,1
+10/16/2023,Greater Accra,Yam,123.18,27.9,0.45,Yes,1,1
+10/17/2023,Volta,Yam,271.2,26.4,0.37,No,0,1
+10/17/2023,Greater Accra,Maize,100.69,24.4,0.38,Yes,1,1
+10/18/2023,Greater Accra,Rice,114.79,28.4,0.35,Yes,0,1
+10/18/2023,Western,Cassava,343.98,24.4,0.67,Yes,1,1
+10/18/2023,Volta,Rice,176.36,21.8,0.48,Yes,1,1
+10/18/2023,Northern,Cassava,216.25,32,0.24,Yes,1,1
+10/19/2023,Ashanti,Cassava,334.45,26.4,0.65,Yes,0,1
+10/19/2023,Northern,Yam,193.36,28.5,0.25,Yes,0,0
+10/19/2023,Northern,Cocoa,175.37,27.2,0.22,Yes,0,1
+10/19/2023,Northern,Maize,161.31,28.6,0.25,Yes,0,1
+10/19/2023,Northern,Yam,190.88,27.1,0.35,Yes,0,0
+10/19/2023,Northern,Yam,173.22,24.6,0.41,No,0,1
+10/19/2023,Ashanti,Cassava,194.54,25.3,0.52,Yes,1,1
+10/19/2023,Northern,Cassava,187.1,28.4,0.32,Yes,1,1
+10/19/2023,Greater Accra,Maize,132.47,28,0.39,No,0,1
+10/19/2023,Northern,Yam,125.93,24.8,0.24,No,0,0
+10/20/2023,Greater Accra,Yam,132.93,27.9,0.66,Yes,0,1
+10/21/2023,Greater Accra,Rice,129.93,26,0.49,Yes,0,1
+10/22/2023,Ashanti,Yam,291.43,26.3,0.57,Yes,0,1
+10/22/2023,Greater Accra,Rice,116.09,25.2,0.47,Yes,0,1
+10/22/2023,Ashanti,Cocoa,251.48,22.9,0.7,Yes,0,1
+10/22/2023,Western,Maize,276.17,21.8,0.64,Yes,0,1
+10/23/2023,Northern,Cassava,185.94,23.8,0.47,No,1,0
+10/23/2023,Volta,Maize,238.29,24.8,0.44,No,0,1
+10/23/2023,Greater Accra,Rice,115.18,27.8,0.39,No,0,1
+10/23/2023,Volta,Cocoa,151.59,27.5,0.5,Yes,1,1
+10/24/2023,Northern,Maize,149.38,27.6,0.21,Yes,1,0
+10/24/2023,Ashanti,Cassava,254.7,25.9,0.54,No,0,1
+10/25/2023,Ashanti,Cocoa,211.45,24.8,0.7,Yes,1,1
+10/25/2023,Volta,Cocoa,194.95,28.5,0.34,Yes,0,0
+10/26/2023,Ashanti,Cocoa,189.59,23.7,0.57,Yes,1,1
+10/26/2023,Western,Cassava,368.91,23.6,0.52,Yes,0,1
+10/26/2023,Northern,Rice,148.26,28.4,0.29,Yes,0,1
+10/26/2023,Northern,Cocoa,192.26,23.9,0.38,Yes,0,1
+10/26/2023,Ashanti,Yam,259.28,23.6,0.66,Yes,1,1
+10/27/2023,Greater Accra,Cassava,142.37,29.8,0.29,No,0,0
+10/27/2023,Greater Accra,Cocoa,85.61,26.4,0.37,Yes,1,1
+10/27/2023,Western,Maize,161.74,26.2,0.7,Yes,0,1
+10/27/2023,Northern,Cassava,129.65,27.8,0.43,No,0,1
+10/27/2023,Northern,Cassava,153.11,27.7,0.42,Yes,0,1
+10/28/2023,Volta,Cassava,172.81,28,0.46,Yes,0,1
+10/28/2023,Ashanti,Rice,165.5,26.5,0.65,Yes,1,1
+10/28/2023,Ashanti,Yam,246.56,25.2,0.69,Yes,0,1
+10/29/2023,Volta,Maize,192.08,24.8,0.58,No,0,1
+10/29/2023,Ashanti,Yam,285.18,25,0.46,Yes,0,1
+10/30/2023,Northern,Rice,184.17,30.8,0.34,No,1,0
+10/30/2023,Volta,Cassava,233.48,28.4,0.44,Yes,0,1
+10/30/2023,Ashanti,Yam,185.96,24.1,0.53,Yes,0,1
+10/30/2023,Ashanti,Cocoa,206.11,23.5,0.61,Yes,1,1
+10/31/2023,Greater Accra,Maize,99.46,26.4,0.3,Yes,1,1
+10/31/2023,Western,Cocoa,298.34,25.7,0.56,Yes,0,1
+10/31/2023,Western,Cocoa,346.47,26.1,0.6,No,1,1
+10/31/2023,Volta,Yam,205.31,23.8,0.44,Yes,0,1
+11/1/2023,Ashanti,Rice,51.1,28.4,0.34,No,0,0
+11/1/2023,Greater Accra,Yam,24.08,31.8,0.39,Yes,1,1
+11/2/2023,Northern,Cocoa,41.62,26.6,0.26,No,1,1
+11/2/2023,Volta,Cassava,46.83,30.5,0.37,No,0,1
+11/2/2023,Volta,Rice,30.06,28.7,0.38,Yes,0,0
+11/2/2023,Northern,Yam,34.16,29.8,0.18,No,0,0
+11/3/2023,Greater Accra,Cassava,22.39,29.7,0.25,Yes,0,0
+11/4/2023,Greater Accra,Rice,19.32,33,0.44,Yes,0,0
+11/4/2023,Northern,Yam,30.56,33.9,0.4,Yes,1,1
+11/4/2023,Ashanti,Maize,47.48,26.1,0.33,Yes,0,0
+11/4/2023,Western,Yam,55.61,26.3,0.55,Yes,1,1
+11/5/2023,Western,Maize,56.37,31,0.41,Yes,0,0
+11/5/2023,Ashanti,Cassava,55.83,30.2,0.49,Yes,0,1
+11/5/2023,Northern,Cocoa,25.34,30.9,0.25,Yes,1,1
+11/5/2023,Greater Accra,Maize,17.83,30,0.32,No,0,0
+11/5/2023,Ashanti,Rice,44.16,27.7,0.53,Yes,0,0
+11/5/2023,Greater Accra,Maize,18.79,31.8,0.19,Yes,1,1
+11/6/2023,Northern,Yam,31.91,28.3,0.19,Yes,1,1
+11/6/2023,Northern,Cassava,36.14,33.1,0.29,Yes,0,0
+11/7/2023,Western,Cassava,59.64,28.1,0.58,Yes,1,1
+11/7/2023,Ashanti,Yam,55.67,29.3,0.33,Yes,0,0
+11/7/2023,Western,Cassava,64.99,28.3,0.6,No,1,1
+11/7/2023,Ashanti,Cocoa,50.89,25.5,0.48,No,1,1
+11/7/2023,Western,Cocoa,88.91,27,0.39,Yes,1,1
+11/8/2023,Ashanti,Maize,59.74,28.1,0.38,Yes,0,1
+11/9/2023,Northern,Cocoa,37.15,31.2,0.38,Yes,0,0
+11/9/2023,Volta,Cocoa,30.64,33.6,0.5,Yes,0,1
+11/9/2023,Ashanti,Yam,57.44,28.5,0.49,Yes,0,1
+11/9/2023,Northern,Cassava,21.52,32.3,0.29,Yes,1,1
+11/9/2023,Ashanti,Cocoa,64.65,29,0.57,No,0,1
+11/10/2023,Ashanti,Maize,30.47,28.9,0.25,Yes,1,1
+11/10/2023,Ashanti,Rice,55.99,31.5,0.42,Yes,0,1
+11/11/2023,Western,Cassava,57.5,28.2,0.42,Yes,1,0
+11/11/2023,Ashanti,Maize,43.52,22.5,0.47,No,0,1
+11/11/2023,Greater Accra,Maize,21.85,29.2,0.36,Yes,0,1
+11/12/2023,Western,Cocoa,57.51,28.4,0.38,Yes,1,1
+11/12/2023,Western,Yam,55.72,24.7,0.49,Yes,0,1
+11/13/2023,Volta,Yam,28.33,27.7,0.42,No,1,1
+11/13/2023,Western,Yam,46.48,29.3,0.42,Yes,1,1
+11/13/2023,Ashanti,Cassava,24.97,29.6,0.56,Yes,0,0
+11/14/2023,Western,Maize,61.32,26.2,0.39,Yes,1,0
+11/14/2023,Volta,Cassava,46.28,30.2,0.36,No,0,0
+11/14/2023,Northern,Cocoa,40.31,31.4,0.26,Yes,0,0
+11/15/2023,Northern,Cocoa,37.66,27.9,0.27,Yes,0,0
+11/15/2023,Western,Maize,68.33,27.4,0.53,Yes,0,1
+11/15/2023,Ashanti,Rice,61.73,31.3,0.37,Yes,0,1
+11/15/2023,Western,Maize,51.93,26.6,0.48,No,0,1
+11/15/2023,Northern,Rice,29.72,29.9,0.13,No,1,1
+11/15/2023,Ashanti,Cassava,47.86,27.7,0.38,No,0,1
+11/15/2023,Ashanti,Yam,44.49,29.3,0.27,Yes,0,0
+11/16/2023,Greater Accra,Yam,21.06,32.2,0.29,Yes,0,1
+11/16/2023,Ashanti,Yam,48.19,26.8,0.26,Yes,0,0
+11/16/2023,Western,Maize,54.98,27.3,0.4,Yes,0,0
+11/16/2023,Volta,Cassava,42.59,29.2,0.2,Yes,0,0
+11/16/2023,Western,Cocoa,48.24,28.4,0.6,Yes,1,1
+11/17/2023,Greater Accra,Rice,21.11,32,0.3,No,1,1
+11/17/2023,Volta,Rice,33.79,28,0.39,Yes,1,1
+11/17/2023,Northern,Maize,30.85,30.4,0.4,No,0,1
+11/17/2023,Northern,Cassava,24.51,28.3,0.32,Yes,0,1
+11/18/2023,Greater Accra,Yam,19.05,28.6,0.34,Yes,0,0
+11/18/2023,Northern,Cocoa,32.84,31.9,0.26,Yes,1,0
+11/18/2023,Ashanti,Cocoa,66.42,25.2,0.57,No,0,1
+11/18/2023,Western,Rice,49.94,29.4,0.51,Yes,0,1
+11/18/2023,Western,Rice,55.5,27.2,0.48,Yes,1,1
+11/20/2023,Western,Rice,48.84,28.9,0.44,No,1,1
+11/21/2023,Volta,Maize,49.04,30.3,0.6,No,0,1
+11/21/2023,Ashanti,Yam,70.43,22.4,0.64,Yes,0,0
+11/21/2023,Northern,Rice,40.84,31.4,0.29,Yes,0,0
+11/21/2023,Western,Cocoa,40.29,25.6,0.29,No,1,1
+11/23/2023,Western,Cocoa,63.34,27.6,0.54,Yes,1,1
+11/23/2023,Greater Accra,Rice,23.85,30.9,0.31,Yes,1,1
+11/24/2023,Volta,Rice,42.13,29.6,0.54,Yes,0,1
+11/24/2023,Greater Accra,Yam,25.81,28.2,0.36,Yes,0,0
+11/24/2023,Greater Accra,Maize,19.85,30.7,0.27,Yes,0,1
+11/24/2023,Ashanti,Maize,45.46,30.6,0.36,Yes,1,1
+11/25/2023,Western,Yam,34.51,27,0.48,Yes,1,1
+11/26/2023,Ashanti,Cocoa,58.04,26.1,0.38,Yes,1,1
+11/26/2023,Ashanti,Yam,59.92,28.8,0.65,Yes,1,1
+11/26/2023,Northern,Yam,40.39,33.7,0.25,No,0,0
+11/26/2023,Greater Accra,Cassava,30.53,31.1,0.22,Yes,0,0
+11/26/2023,Ashanti,Cassava,52.3,26.2,0.45,Yes,0,1
+11/27/2023,Greater Accra,Maize,25.15,31.4,0.29,Yes,0,0
+11/27/2023,Greater Accra,Cassava,25.65,31,0.31,Yes,1,1
+11/27/2023,Northern,Cassava,35.13,30.7,0.33,Yes,1,1
+11/27/2023,Northern,Rice,36.87,26.9,0.28,Yes,0,0
+11/28/2023,Northern,Cocoa,33.55,32.2,0.25,No,0,1
+11/28/2023,Greater Accra,Cassava,17.18,31.3,0.25,Yes,1,0
+11/28/2023,Northern,Cocoa,20.18,26.5,0.26,Yes,0,1
+11/29/2023,Western,Rice,56.02,28.5,0.54,No,1,1
+12/1/2023,Greater Accra,Cocoa,22.07,27.9,0.38,Yes,0,1
+12/1/2023,Northern,Cassava,30.25,33.6,0.31,No,0,1
+12/2/2023,Greater Accra,Cocoa,35.37,29.5,0.34,No,1,1
+12/3/2023,Ashanti,Cassava,38.06,28.6,0.47,Yes,0,1
+12/3/2023,Volta,Yam,35.07,31.1,0.36,Yes,0,1
+12/4/2023,Ashanti,Cassava,68.63,27,0.53,No,0,0
+12/5/2023,Greater Accra,Maize,26.13,27.4,0.37,Yes,1,0
+12/5/2023,Ashanti,Yam,50.65,26.8,0.54,Yes,0,1
+12/6/2023,Western,Rice,54.27,26.1,0.42,Yes,1,1
+12/7/2023,Western,Rice,57.14,27.2,0.64,Yes,1,0
+12/7/2023,Volta,Maize,43.76,28.2,0.36,No,0,0
+12/7/2023,Western,Yam,68.58,27.4,0.31,No,0,1
+12/8/2023,Volta,Rice,40.52,30.2,0.51,Yes,0,1
+12/8/2023,Greater Accra,Cassava,20.77,33.9,0.19,Yes,0,1
+12/8/2023,Greater Accra,Maize,17.37,32.6,0.32,No,0,1
+12/8/2023,Volta,Yam,35.85,27.8,0.5,Yes,0,0
+12/8/2023,Western,Yam,55.73,26.7,0.69,No,0,1
+12/8/2023,Volta,Maize,45.22,26.5,0.38,Yes,1,1
+12/8/2023,Greater Accra,Maize,20.91,29,0.4,Yes,1,1
+12/8/2023,Volta,Cocoa,32.79,27.2,0.37,Yes,0,0
+12/9/2023,Greater Accra,Yam,18.9,29,0.35,No,0,1
+12/9/2023,Northern,Cocoa,31.21,30.8,0.12,No,0,1
+12/10/2023,Western,Maize,55,27.5,0.45,Yes,0,0
+12/10/2023,Northern,Maize,35.66,30,0.1,Yes,0,1
+12/10/2023,Northern,Rice,34.51,34.8,0.29,Yes,0,0
+12/11/2023,Northern,Maize,27.84,23.9,0.26,No,0,0
+12/11/2023,Northern,Cocoa,41.07,30.2,0.35,Yes,0,1
+12/11/2023,Greater Accra,Yam,21.25,30.8,0.29,No,0,0
+12/11/2023,Ashanti,Cassava,52.24,26.7,0.36,No,1,1
+12/11/2023,Greater Accra,Cocoa,19.27,32.4,0.41,No,0,1
+12/12/2023,Volta,Cassava,58.42,29.6,0.2,Yes,0,0
+12/12/2023,Greater Accra,Cassava,29.95,31.8,0.33,No,1,0
+12/12/2023,Western,Yam,53.22,29.1,0.56,Yes,0,1
+12/12/2023,Western,Cassava,58.49,25.2,0.55,Yes,0,0
+12/13/2023,Western,Rice,87.4,26.3,0.54,Yes,0,0
+12/13/2023,Northern,Cocoa,35.01,25.7,0.44,No,0,0
+12/13/2023,Northern,Yam,24.03,30,0.1,Yes,1,1
+12/14/2023,Northern,Cassava,42.72,34.3,0.1,No,0,1
+12/15/2023,Greater Accra,Cassava,28.55,32.7,0.43,No,0,0
+12/16/2023,Northern,Yam,37.06,29,0.38,Yes,0,1
+12/16/2023,Volta,Yam,32.41,30.2,0.38,Yes,1,1
+12/16/2023,Greater Accra,Maize,19.79,31.5,0.17,Yes,1,1
+12/16/2023,Western,Maize,75.16,30.2,0.27,Yes,1,1
+12/17/2023,Greater Accra,Maize,19.46,30.1,0.33,No,0,1
+12/17/2023,Western,Cocoa,70.69,28,0.58,Yes,1,1
+12/19/2023,Northern,Rice,23.5,27.5,0.27,Yes,0,0
+12/20/2023,Ashanti,Cocoa,48.46,29.1,0.35,No,1,1
+12/20/2023,Greater Accra,Maize,22.98,28.8,0.18,No,0,1
+12/20/2023,Volta,Maize,45.57,29.2,0.44,No,0,1
+12/20/2023,Western,Rice,52.22,26.3,0.26,Yes,1,1
+12/20/2023,Western,Cocoa,47.21,28.2,0.7,Yes,0,1
+12/20/2023,Ashanti,Cocoa,52.65,24.9,0.43,Yes,0,1
+12/21/2023,Volta,Rice,32.78,31.7,0.24,Yes,1,0
+12/21/2023,Northern,Cocoa,34.55,32.2,0.39,Yes,1,1
+12/21/2023,Western,Cassava,37.82,28.3,0.55,Yes,0,1
+12/22/2023,Greater Accra,Maize,17.43,28.7,0.39,No,0,1
+12/23/2023,Greater Accra,Yam,24.8,29.4,0.23,Yes,0,0
+12/25/2023,Greater Accra,Cassava,23.04,30.5,0.4,Yes,0,0
+12/25/2023,Ashanti,Rice,59.42,30.6,0.44,No,0,1
+12/25/2023,Ashanti,Cocoa,60.1,26.7,0.48,Yes,1,1
+12/25/2023,Western,Cocoa,48.56,30.7,0.62,Yes,1,1
+12/25/2023,Western,Cassava,65.92,25.9,0.14,No,0,1
+12/25/2023,Western,Yam,59.7,26.7,0.61,Yes,0,1
+12/25/2023,Northern,Maize,32.46,30.5,0.21,No,1,0
+12/25/2023,Volta,Rice,37.13,29.4,0.43,Yes,0,1
+12/26/2023,Greater Accra,Cassava,23.77,33.3,0.34,Yes,0,0
+12/26/2023,Greater Accra,Cassava,26.67,29.6,0.3,Yes,0,1
+12/27/2023,Greater Accra,Cassava,22.02,30.9,0.11,No,0,1
+12/27/2023,Ashanti,Rice,49.89,30.1,0.53,Yes,0,1
+12/27/2023,Volta,Rice,47.16,27.8,0.35,Yes,1,1
+12/28/2023,Ashanti,Rice,49.11,27.4,0.52,No,1,1
+12/28/2023,Western,Yam,52.19,29.6,0.6,Yes,1,0
+12/28/2023,Greater Accra,Rice,25.94,26.9,0.39,Yes,0,1
+12/28/2023,Greater Accra,Maize,32.1,29.7,0.34,Yes,1,1
+12/28/2023,Western,Cocoa,70.08,26.2,0.45,No,1,1
+12/28/2023,Northern,Rice,27.03,32.8,0.37,No,0,0
+12/29/2023,Ashanti,Yam,45.73,28.8,0.51,No,0,0
+12/30/2023,Greater Accra,Yam,26.18,29.3,0.1,Yes,1,1
+12/30/2023,Ashanti,Maize,52.86,31.4,0.47,No,1,0
+12/30/2023,Volta,Yam,48.65,27.2,0.38,Yes,0,1
