@@ -1,77 +1,75 @@
 import streamlit as st
 import pandas as pd
-
 import joblib
 
-### load the model
-model = joblib.load('pest_model.joblib')
+st.set_page_config(page_title="Crop Disease Prediction", page_icon="🌱", layout="wide")
+st.title("Crop Disease Presence — Experimental Model")
+st.caption("A machine-learning demonstration using the project's agricultural dataset.")
+st.warning("This prototype is not an agronomic diagnosis. Verify field conditions with qualified agricultural extension support before taking action.")
 
-### app title
-st.title("Pest Detection App")
+@st.cache_data
+def load_data():
+    return pd.read_csv("classification_data.csv")
 
-### load the dataset
-data = pd.read_csv('classification_data.csv')
+@st.cache_resource
+def load_model():
+    return joblib.load("pest_model.joblib")
 
-### Build three KPI's for the app
+try:
+    data = load_data()
+    model = load_model()
+except Exception as exc:
+    st.error("The dataset or saved model could not be loaded. Check that the repository files and compatible package versions are available.")
+    st.exception(exc)
+    st.stop()
 
-st.subheader("Key Performance Indicators")
+required_columns = [
+    "Region", "Crop_Type", "Fertilizer_Used", "Pest_Presence",
+    "Day", "Rainfall_mm", "Temperature_C", "Soil_Moisture",
+]
+missing_columns = [column for column in required_columns if column not in data.columns]
+if missing_columns:
+    st.error("The dataset is missing required model input columns: " + ", ".join(missing_columns))
+    st.stop()
+
+st.subheader("Dataset summary")
 col1, col2, col3 = st.columns(3)
-
-### Average rainfall, average temperature, and average soil moisture
 with col1:
-    st.metric(label="Average Rainfall", value=f"{data['Rainfall_mm'].mean():.2f} mm")
+    st.metric("Average rainfall", f"{data['Rainfall_mm'].mean():.2f} mm")
 with col2:
-    st.metric(label="Average Temperature", value=f"{data['Temperature_C'].mean():.2f} °C")
+    st.metric("Average temperature", f"{data['Temperature_C'].mean():.2f} °C")
 with col3:
-    st.metric(label="Average Soil Moisture", value=f"{data['Soil_Moisture'].mean():.2f} %")
+    st.metric("Average soil moisture", f"{data['Soil_Moisture'].mean():.2f} %")
 
-### User input for the features
-### Create a sidebar for user input
-st.sidebar.header("Input Features")
+st.sidebar.header("Model input features")
+region = st.sidebar.selectbox("Region", sorted(data["Region"].dropna().unique()))
+crop_type = st.sidebar.selectbox("Crop type", sorted(data["Crop_Type"].dropna().unique()))
+fertilizer_use = st.sidebar.selectbox("Fertilizer used", sorted(data["Fertilizer_Used"].dropna().unique()))
+pest_presence = st.sidebar.selectbox("Pest presence", sorted(data["Pest_Presence"].dropna().unique()))
+day = st.sidebar.slider("Day of month", 1, 31, 15)
+rainfall = st.sidebar.slider("Rainfall (mm)", float(data["Rainfall_mm"].min()), float(data["Rainfall_mm"].max()), float(data["Rainfall_mm"].mean()))
+temperature = st.sidebar.slider("Temperature (°C)", float(data["Temperature_C"].min()), float(data["Temperature_C"].max()), float(data["Temperature_C"].mean()))
+soil_moisture = st.sidebar.slider("Soil moisture (%)", float(data["Soil_Moisture"].min()), float(data["Soil_Moisture"].max()), float(data["Soil_Moisture"].mean()))
 
-### create a filter for regions
-region = st.sidebar.selectbox("Select Region", data['Region'].unique())
-### create a filter for crop types
-crop_type = st.sidebar.selectbox("Select Crop Type", data['Crop_Type'].unique())
-### create a filter fertilizer use
-fertilizer_use = st.sidebar.selectbox("Fertilizer Use", data['Fertilizer_Used'].unique()) 
-### create a filter for pest presence
-pest_presence = st.sidebar.selectbox("Pest Presence", data['Pest_Presence'].unique())
-### create a filter for day  
-day = st.sidebar.slider("Day", 1, 31, 15) 
-
-### Side bar sliders for numeric features
-rainfall = st.sidebar.slider("Rainfall (mm)", float(data['Rainfall_mm'].min()), 
-                             float(data['Rainfall_mm'].max()), float(data['Rainfall_mm'].mean()))
-### slider for temperature
-temperature = st.sidebar.slider("Temperature (°C)", float(data['Temperature_C'].min()),
-                                float(data['Temperature_C'].max()), float(data['Temperature_C'].mean()))
-
-### slider for soil moisture
-soil_moisture = st.sidebar.slider("Soil Moisture (%)", float(data['Soil_Moisture'].min()),
-                                   float(data['Soil_Moisture'].max()), float(data['Soil_Moisture'].mean()))
-
-
-### Create a DataFrame for the user input
+# The training notebook defines Disease_Presence as y. Pest_Presence is an input feature.
 user_input = pd.DataFrame({
-    'Region': [region],
-    'Crop_Type': [crop_type],
-    'Fertilizer_Used': [fertilizer_use],
-    'Pest_Presence': [pest_presence],
-    'Day': [day],
-    'Rainfall_mm': [rainfall],
-    'Temperature_C': [temperature],
-    'Soil_Moisture': [soil_moisture]
+    "Region": [region],
+    "Crop_Type": [crop_type],
+    "Fertilizer_Used": [fertilizer_use],
+    "Pest_Presence": [pest_presence],
+    "Day": [day],
+    "Rainfall_mm": [rainfall],
+    "Temperature_C": [temperature],
+    "Soil_Moisture": [soil_moisture],
 })
 
-### predict the pest presence using the model
-### create a button to trigger the prediction
-if st.button("Predict Pest Presence"):
-    prediction = model.predict(user_input)
-    if prediction[0] == 1:
-        st.error("Disease detected! Take necessary actions.")
-    else:
-        st.success("No Disease Detected. Keep monitoring your crops!")
-
-    ### 
-    
+if st.button("Predict disease presence"):
+    try:
+        prediction = model.predict(user_input)
+        label = prediction[0]
+        st.subheader("Model output")
+        st.write(f"Predicted Disease_Presence class: **{label}**")
+        st.caption("The training notebook uses Disease_Presence as the target. Confirm the dataset's class encoding before interpreting 0/1 as absence/presence.")
+    except Exception as exc:
+        st.error("Prediction failed. The app inputs may not match the preprocessing pipeline stored in pest_model.joblib.")
+        st.exception(exc)
