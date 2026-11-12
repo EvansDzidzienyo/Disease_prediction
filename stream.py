@@ -20,7 +20,7 @@ try:
     model = load_model()
 except Exception as exc:
     st.error("The dataset or saved model could not be loaded. Check that the repository files and compatible package versions are available.")
-    st.exception(exc)
+    # Keep internal paths and stack traces out of the public interface.
     st.stop()
 
 required_columns = [
@@ -65,6 +65,12 @@ user_input = pd.DataFrame({
 
 if st.button("Predict disease presence"):
     try:
+        if hasattr(model, "feature_names_in_"):
+            expected = list(model.feature_names_in_)
+            if set(expected) != set(user_input.columns):
+                st.error("The saved model expects a different set of input features. Retrain or repackage the model and app together.")
+                st.stop()
+            user_input = user_input[expected]
         prediction = model.predict(user_input)
         label = prediction[0]
         st.subheader("Model output")
@@ -72,4 +78,4 @@ if st.button("Predict disease presence"):
         st.caption("The training notebook uses Disease_Presence as the target. Confirm the dataset's class encoding before interpreting 0/1 as absence/presence.")
     except Exception as exc:
         st.error("Prediction failed. The app inputs may not match the preprocessing pipeline stored in pest_model.joblib.")
-        st.exception(exc)
+        # Avoid exposing internal exception details in the public interface.
