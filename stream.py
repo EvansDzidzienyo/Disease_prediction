@@ -65,12 +65,14 @@ user_input = pd.DataFrame({
 
 if st.button("Predict disease presence"):
     try:
-        if hasattr(model, "feature_names_in_"):
-            expected = list(model.feature_names_in_)
-            if set(expected) != set(user_input.columns):
-                st.error("The saved model expects a different set of input features. Retrain or repackage the model and app together.")
-                st.stop()
-            user_input = user_input[expected]
+        if not hasattr(model, "feature_names_in_"):
+            st.error("The saved model does not expose its expected input feature names. Retrain/package the model and app together.")
+            st.stop()
+        expected = list(model.feature_names_in_)
+        if set(expected) != set(user_input.columns):
+            st.error("The saved model expects a different set of input features. Retrain or repackage the model and app together.")
+            st.stop()
+        user_input = user_input[expected]
         prediction = model.predict(user_input)
         label = prediction[0]
         st.subheader("Model output")
