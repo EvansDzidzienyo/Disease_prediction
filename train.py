@@ -25,7 +25,8 @@ FEATURES = CATEGORICAL_FEATURES + NUMERIC_FEATURES
 
 def load_dataset() -> pd.DataFrame:
     data = pd.read_csv(DATA_PATH)
-    required = {"Date", TARGET, *FEATURES}
+    required = {"Date", TARGET, *CATEGORICAL_FEATURES, "Rainfall_mm",
+                "Temperature_C", "Soil_Moisture", "Pest_Presence"}
     missing = sorted(required.difference(data.columns))
     if missing:
         raise ValueError(f"Dataset is missing required columns: {missing}")
